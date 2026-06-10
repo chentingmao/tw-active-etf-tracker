@@ -245,9 +245,6 @@ def fetch_etfinfo_holdings(ticker: str) -> list[dict[str, Any]]:
 
     url = f"https://www.etfinfo.tw/etf/{ticker}/holdings"
     text = fetch_text(url, headers=_BROWSER_HEADERS, timeout=30).text
-    if "找不到" in text[:500] or "404" in text[:500].lower():
-        return []
-
     nuxt_holdings = _parse_etfinfo_nuxt_holdings(text, ticker)
     if nuxt_holdings:
         return nuxt_holdings
@@ -293,8 +290,12 @@ def _parse_etfinfo_root_holdings(root: Any, ticker: str) -> list[dict[str, Any]]
         return []
 
     snapshot_date = _date_only(holdings_payload.get("snapshotDate"))
+    raw_items = holdings_payload.get("stocks")
+    if not isinstance(raw_items, list) or not raw_items:
+        raw_items = holdings_payload.get("holdings") or []
+
     result = []
-    for item in holdings_payload.get("holdings") or []:
+    for item in raw_items:
         if not isinstance(item, dict):
             continue
         ticker_code = _security_code(item.get("code"))
@@ -372,7 +373,18 @@ def _parse_etfinfo_html_holdings(text: str) -> list[dict[str, Any]]:
 def _security_code(value: Any) -> str:
     text = re.sub(r"\s+", " ", _clean_text(value).upper())
     match = re.fullmatch(r"(\d{4,5}[A-Z]?)\s+TT", text)
-    return match.group(1) if match else text
+    if match:
+        return match.group(1)
+
+    match = re.fullmatch(r"TW000(\d{4})\d{3}", text)
+    if match:
+        return match.group(1)
+
+    match = re.fullmatch(r"TW000(\d{5}[A-Z0-9])[A-Z0-9]", text)
+    if match:
+        return match.group(1)
+
+    return text
 
 
 def _is_security_code(value: Any) -> bool:
