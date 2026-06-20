@@ -207,8 +207,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 8.97,
         "capital_yi": 0,
         "shares": 3134000,
@@ -405,21 +405,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 39.82,
-        "capital_yi": 0,
-        "shares": 25331000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00986A",
         "etf_name": "主動台新龍頭成長",
         "color": "#db2777",
         "weight": 7.9492,
         "capital_yi": 0,
         "shares": 22000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 39.82,
+        "capital_yi": 0,
+        "shares": 25331000,
         "date": "2026-06-18"
       }
     ]
@@ -614,8 +614,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.7,
         "capital_yi": 0,
         "shares": 466000,
@@ -813,8 +813,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 2.72,
         "capital_yi": 0,
         "shares": 6808000,
@@ -1003,8 +1003,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 2.29,
         "capital_yi": 0,
         "shares": 1443000,
@@ -1193,8 +1193,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.84,
         "capital_yi": 0,
         "shares": 559000,
@@ -1383,8 +1383,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.43,
         "capital_yi": 0,
         "shares": 482000,
@@ -1573,8 +1573,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 6.09,
         "capital_yi": 0,
         "shares": 4346000,
@@ -1763,8 +1763,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 2.32,
         "capital_yi": 0,
         "shares": 3679000,
@@ -1944,8 +1944,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.75,
         "capital_yi": 0,
         "shares": 476000,
@@ -2288,8 +2288,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.58,
         "capital_yi": 0,
         "shares": 16674000,
@@ -2460,8 +2460,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.89,
         "capital_yi": 0,
         "shares": 282000,
@@ -2632,8 +2632,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.82,
         "capital_yi": 0,
         "shares": 599000,
@@ -2786,8 +2786,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.57,
         "capital_yi": 0,
         "shares": 171000,
@@ -2940,8 +2940,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.93,
         "capital_yi": 0,
         "shares": 2739000,
@@ -3094,8 +3094,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.88,
         "capital_yi": 0,
         "shares": 340000,
@@ -3238,21 +3238,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 0.96,
-        "capital_yi": 0,
-        "shares": 3908000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 11.6564,
         "capital_yi": 0,
         "shares": 172830000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 0.96,
+        "capital_yi": 0,
+        "shares": 3908000,
         "date": "2026-06-18"
       }
     ]
@@ -3393,8 +3393,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.02,
         "capital_yi": 0,
         "shares": 2437000,
@@ -3538,8 +3538,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.7,
         "capital_yi": 0,
         "shares": 153000,
@@ -3828,8 +3828,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.33,
         "capital_yi": 0,
         "shares": 53000,
@@ -3964,8 +3964,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.4,
         "capital_yi": 0,
         "shares": 693000,
@@ -4100,8 +4100,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.65,
         "capital_yi": 0,
         "shares": 4552000,
@@ -4354,8 +4354,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.78,
         "capital_yi": 0,
         "shares": 40177000,
@@ -4471,21 +4471,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 1.29,
-        "capital_yi": 0,
-        "shares": 14307000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 14.4546,
         "capital_yi": 0,
         "shares": 583940000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 1.29,
+        "capital_yi": 0,
+        "shares": 14307000,
         "date": "2026-06-18"
       }
     ]
@@ -4608,8 +4608,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.62,
         "capital_yi": 0,
         "shares": 2083000,
@@ -4716,21 +4716,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 1.29,
-        "capital_yi": 0,
-        "shares": 27431000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 11.3,
         "capital_yi": 0,
         "shares": 876177000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 1.29,
+        "capital_yi": 0,
+        "shares": 27431000,
         "date": "2026-06-18"
       }
     ]
@@ -4835,8 +4835,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.47,
         "capital_yi": 0,
         "shares": 106000,
@@ -5162,8 +5162,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 4.39,
         "capital_yi": 0,
         "shares": 25067000,
@@ -5462,8 +5462,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.32,
         "capital_yi": 0,
         "shares": 1607000,
@@ -5552,21 +5552,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 0.38,
-        "capital_yi": 0,
-        "shares": 3035000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 3.4239,
         "capital_yi": 0,
         "shares": 98903000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 0.38,
+        "capital_yi": 0,
+        "shares": 3035000,
         "date": "2026-06-18"
       }
     ]
@@ -5652,21 +5652,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 1.04,
-        "capital_yi": 0,
-        "shares": 13855000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 13.5824,
         "capital_yi": 0,
         "shares": 655600000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 1.04,
+        "capital_yi": 0,
+        "shares": 13855000,
         "date": "2026-06-18"
       }
     ]
@@ -5752,21 +5752,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 0.55,
-        "capital_yi": 0,
-        "shares": 1062000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 4.8019,
         "capital_yi": 0,
         "shares": 33930000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 0.55,
+        "capital_yi": 0,
+        "shares": 1062000,
         "date": "2026-06-18"
       }
     ]
@@ -6035,8 +6035,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.33,
         "capital_yi": 0,
         "shares": 114000,
@@ -6308,8 +6308,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.47,
         "capital_yi": 0,
         "shares": 4420000,
@@ -6399,8 +6399,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 1.5,
         "capital_yi": 0,
         "shares": 15983000,
@@ -6480,21 +6480,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 24330000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 4.2774,
         "capital_yi": 0,
         "shares": 775490000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 0.49,
+        "capital_yi": 0,
+        "shares": 24330000,
         "date": "2026-06-18"
       }
     ]
@@ -6581,8 +6581,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.26,
         "capital_yi": 0,
         "shares": 3632000,
@@ -6663,8 +6663,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.55,
         "capital_yi": 0,
         "shares": 162000,
@@ -6991,8 +6991,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.26,
         "capital_yi": 0,
         "shares": 3287000,
@@ -7283,8 +7283,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.5,
         "capital_yi": 0,
         "shares": 16888000,
@@ -7575,8 +7575,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.34,
         "capital_yi": 0,
         "shares": 7041000,
@@ -7648,8 +7648,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.72,
         "capital_yi": 0,
         "shares": 7938000,
@@ -7711,21 +7711,21 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
-        "weight": 0.73,
-        "capital_yi": 0,
-        "shares": 34619000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
         "weight": 6.6123,
         "capital_yi": 0,
         "shares": 1136010000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "009816",
+        "etf_name": "009816",
+        "color": "#888888",
+        "weight": 0.73,
+        "capital_yi": 0,
+        "shares": 34619000,
         "date": "2026-06-18"
       }
     ]
@@ -8105,8 +8105,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.52,
         "capital_yi": 0,
         "shares": 22618000,
@@ -8728,8 +8728,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.53,
         "capital_yi": 0,
         "shares": 20338000,
@@ -8783,8 +8783,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.42,
         "capital_yi": 0,
         "shares": 3069000,
@@ -8838,8 +8838,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.38,
         "capital_yi": 0,
         "shares": 15179000,
@@ -10434,8 +10434,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.36,
         "capital_yi": 0,
         "shares": 16952000,
@@ -10471,8 +10471,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.27,
         "capital_yi": 0,
         "shares": 16484000,
@@ -10508,8 +10508,8 @@
       },
       {
         "etf_ticker": "009816",
-        "etf_name": "凱基台灣TOP50",
-        "color": "#38bdf8",
+        "etf_name": "009816",
+        "color": "#888888",
         "weight": 0.12,
         "capital_yi": 0,
         "shares": 3537000,

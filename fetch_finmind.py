@@ -25,6 +25,7 @@ ETF_CONFIG = {
     "00878":  {"name": "國泰永續高股息",    "color": "#a78bfa", "tags": ["高股息/ESG"],          "type": "passive"},
     "00919":  {"name": "群益台灣精選高息",  "color": "#f472b6", "tags": ["高股息型", "持股待補"], "type": "passive"},
     "006208": {"name": "富邦台50",          "color": "#60a5fa", "tags": ["市值型", "同0050"],    "type": "passive"},
+    "009816": {"name": "凱基台灣TOP50",    "color": "#38bdf8", "tags": ["市值型", "TOP50"], "type": "passive"},
     "00980A": {"name": "主動野村臺灣優選",  "color": "#2563eb", "tags": ["主動", "成長型"],      "type": "active"},
     "00981A": {"name": "主動統一台股增長",  "color": "#34d399", "tags": ["台股型", "主動"],      "type": "active"},
     "00982A": {"name": "主動群益台灣強棒",  "color": "#f87171", "tags": ["主動"],                "type": "active"},

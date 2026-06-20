@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T01:17:26",
+  "updated_at": "2026-06-21T01:36:43",
   "current_date": "2026-06-18",
   "previous_date": "2026-06-17",
   "baseline": false,
@@ -274,7 +274,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 39.82,
           "weight_delta": 39.82,
@@ -532,7 +532,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.93,
           "weight_delta": 1.93,
@@ -742,7 +742,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.7,
           "weight_delta": 1.7,
@@ -1000,7 +1000,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 4.39,
           "weight_delta": 4.39,
@@ -1126,7 +1126,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.65,
           "weight_delta": 0.65,
@@ -1300,7 +1300,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 8.97,
           "weight_delta": 8.97,
@@ -1624,7 +1624,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.84,
           "weight_delta": 0.84,
@@ -2031,7 +2031,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.62,
           "weight_delta": 0.62,
@@ -2368,7 +2368,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.55,
           "weight_delta": 0.55,
@@ -2481,7 +2481,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.58,
           "weight_delta": 1.58,
@@ -2692,7 +2692,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.02,
           "weight_delta": 1.02,
@@ -2878,7 +2878,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 2.72,
           "weight_delta": 2.72,
@@ -3136,7 +3136,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 6.09,
           "weight_delta": 6.09,
@@ -3412,7 +3412,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.89,
           "weight_delta": 0.89,
@@ -3664,7 +3664,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.78,
           "weight_delta": 1.78,
@@ -3832,7 +3832,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.29,
           "weight_delta": 1.29,
@@ -3958,7 +3958,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.04,
           "weight_delta": 1.04,
@@ -4072,7 +4072,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.88,
           "weight_delta": 0.88,
@@ -4396,7 +4396,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.5,
           "weight_delta": 1.5,
@@ -4486,7 +4486,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.29,
           "weight_delta": 1.29,
@@ -4624,7 +4624,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.75,
           "weight_delta": 0.75,
@@ -4875,7 +4875,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.33,
           "weight_delta": 0.33,
@@ -5050,7 +5050,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.38,
           "weight_delta": 0.38,
@@ -5206,7 +5206,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.72,
           "weight_delta": 0.72,
@@ -5308,7 +5308,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 2.32,
           "weight_delta": 2.32,
@@ -5554,7 +5554,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.53,
           "weight_delta": 0.53,
@@ -5662,7 +5662,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.96,
           "weight_delta": 0.96,
@@ -5878,7 +5878,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.82,
           "weight_delta": 0.82,
@@ -6076,7 +6076,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.7,
           "weight_delta": 0.7,
@@ -6334,7 +6334,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.47,
           "weight_delta": 0.47,
@@ -6448,7 +6448,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.32,
           "weight_delta": 0.32,
@@ -6976,7 +6976,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.47,
           "weight_delta": 0.47,
@@ -7480,7 +7480,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.5,
           "weight_delta": 0.5,
@@ -7684,7 +7684,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 2.29,
           "weight_delta": 2.29,
@@ -7942,7 +7942,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.38,
           "weight_delta": 0.38,
@@ -8062,7 +8062,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.49,
           "weight_delta": 0.49,
@@ -8218,7 +8218,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.73,
           "weight_delta": 0.73,
@@ -8668,7 +8668,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.52,
           "weight_delta": 0.52,
@@ -9105,7 +9105,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.26,
           "weight_delta": 0.26,
@@ -9778,7 +9778,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.36,
           "weight_delta": 0.36,
@@ -10294,7 +10294,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.34,
           "weight_delta": 0.34,
@@ -10468,7 +10468,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.42,
           "weight_delta": 0.42,
@@ -10648,7 +10648,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.27,
           "weight_delta": 0.27,
@@ -11224,7 +11224,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.33,
           "weight_delta": 0.33,
@@ -12742,7 +12742,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.12,
           "weight_delta": 0.12,
@@ -12994,7 +12994,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.4,
           "weight_delta": 0.4,
@@ -15010,7 +15010,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.55,
           "weight_delta": 0.55,
@@ -17212,7 +17212,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.43,
           "weight_delta": 0.43,
@@ -18916,7 +18916,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.26,
           "weight_delta": 0.26,
@@ -20194,7 +20194,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.57,
           "weight_delta": 0.57,
@@ -21139,7 +21139,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2330",
       "stock_name": "台積電",
       "old_weight": 0.0,
@@ -21154,7 +21154,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2454",
       "stock_name": "聯發科",
       "old_weight": 0.0,
@@ -21169,7 +21169,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2308",
       "stock_name": "台達電",
       "old_weight": 0.0,
@@ -21184,7 +21184,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2317",
       "stock_name": "鴻海",
       "old_weight": 0.0,
@@ -21214,7 +21214,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3711",
       "stock_name": "日月光投控",
       "old_weight": 0.0,
@@ -21229,7 +21229,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3037",
       "stock_name": "欣興",
       "old_weight": 0.0,
@@ -21244,7 +21244,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2345",
       "stock_name": "智邦",
       "old_weight": 0.0,
@@ -21274,7 +21274,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2327",
       "stock_name": "國巨*",
       "old_weight": 0.0,
@@ -21319,7 +21319,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2885",
       "stock_name": "元大金",
       "old_weight": 0.0,
@@ -21349,7 +21349,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2383",
       "stock_name": "台光電",
       "old_weight": 0.0,
@@ -21364,7 +21364,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2303",
       "stock_name": "聯電",
       "old_weight": 0.0,
@@ -21379,7 +21379,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2412",
       "stock_name": "中華電信",
       "old_weight": 0.0,
@@ -21409,7 +21409,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2881",
       "stock_name": "富邦金",
       "old_weight": 0.0,
@@ -21424,7 +21424,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2891",
       "stock_name": "中國信託",
       "old_weight": 0.0,
@@ -21454,7 +21454,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2882",
       "stock_name": "國泰金融",
       "old_weight": 0.0,
@@ -21469,7 +21469,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "4958",
       "stock_name": "臻鼎-KY",
       "old_weight": 0.0,
@@ -21484,7 +21484,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2382",
       "stock_name": "廣達",
       "old_weight": 0.0,
@@ -21529,7 +21529,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3443",
       "stock_name": "創意",
       "old_weight": 0.0,
@@ -21544,7 +21544,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3653",
       "stock_name": "健策",
       "old_weight": 0.0,
@@ -21559,7 +21559,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2360",
       "stock_name": "致茂",
       "old_weight": 0.0,
@@ -21574,7 +21574,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3665",
       "stock_name": "貿聯-KY",
       "old_weight": 0.0,
@@ -21604,7 +21604,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3017",
       "stock_name": "奇鋐",
       "old_weight": 0.0,
@@ -21619,7 +21619,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2887",
       "stock_name": "台新新光金",
       "old_weight": 0.0,
@@ -21634,7 +21634,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "1303",
       "stock_name": "南亞塑膠",
       "old_weight": 0.0,
@@ -21649,7 +21649,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "7769",
       "stock_name": "鴻勁",
       "old_weight": 0.0,
@@ -21664,7 +21664,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2344",
       "stock_name": "華邦電子",
       "old_weight": 0.0,
@@ -21679,7 +21679,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2408",
       "stock_name": "南亞科技",
       "old_weight": 0.0,
@@ -21694,7 +21694,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "6669",
       "stock_name": "緯穎",
       "old_weight": 0.0,
@@ -21709,7 +21709,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2357",
       "stock_name": "華碩",
       "old_weight": 0.0,
@@ -21724,7 +21724,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3008",
       "stock_name": "大立光",
       "old_weight": 0.0,
@@ -21754,7 +21754,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2890",
       "stock_name": "永豐金融控股",
       "old_weight": 0.0,
@@ -21769,7 +21769,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2884",
       "stock_name": "玉山金融控股",
       "old_weight": 0.0,
@@ -21799,7 +21799,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2886",
       "stock_name": "兆豐金",
       "old_weight": 0.0,
@@ -21814,7 +21814,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2883",
       "stock_name": "凱基金控",
       "old_weight": 0.0,
@@ -21859,7 +21859,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2059",
       "stock_name": "川湖",
       "old_weight": 0.0,
@@ -21874,7 +21874,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3231",
       "stock_name": "緯創資通",
       "old_weight": 0.0,
@@ -21904,7 +21904,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2368",
       "stock_name": "金像電",
       "old_weight": 0.0,
@@ -21919,7 +21919,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2301",
       "stock_name": "光寶科",
       "old_weight": 0.0,
@@ -21949,7 +21949,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "8046",
       "stock_name": "南電",
       "old_weight": 0.0,
@@ -21994,7 +21994,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2603",
       "stock_name": "長榮海運",
       "old_weight": 0.0,
@@ -22009,7 +22009,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2880",
       "stock_name": "華南金",
       "old_weight": 0.0,
@@ -22054,7 +22054,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2892",
       "stock_name": "第一金",
       "old_weight": 0.0,
@@ -22084,7 +22084,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "1216",
       "stock_name": "統一企業",
       "old_weight": 0.0,
@@ -22099,7 +22099,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3661",
       "stock_name": "世芯-KY",
       "old_weight": 0.0,
@@ -22114,7 +22114,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "6515",
       "stock_name": "穎崴",
       "old_weight": 0.0,
@@ -22144,7 +22144,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2449",
       "stock_name": "京元電子",
       "old_weight": 0.0,
@@ -22174,7 +22174,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "5880",
       "stock_name": "合庫金",
       "old_weight": 0.0,
@@ -22189,7 +22189,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3045",
       "stock_name": "台灣大",
       "old_weight": 0.0,
@@ -22204,7 +22204,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "4904",
       "stock_name": "遠傳電信",
       "old_weight": 0.0,
@@ -22279,7 +22279,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "6505",
       "stock_name": "台塑化",
       "old_weight": 0.0,
@@ -39111,7 +39111,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2330",
       "stock_name": "台積電",
       "old_weight": 0.0,
@@ -39126,7 +39126,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2454",
       "stock_name": "聯發科",
       "old_weight": 0.0,
@@ -39141,7 +39141,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2308",
       "stock_name": "台達電",
       "old_weight": 0.0,
@@ -39156,7 +39156,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2317",
       "stock_name": "鴻海",
       "old_weight": 0.0,
@@ -39186,7 +39186,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3711",
       "stock_name": "日月光投控",
       "old_weight": 0.0,
@@ -39201,7 +39201,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "3037",
       "stock_name": "欣興",
       "old_weight": 0.0,
@@ -39216,7 +39216,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2345",
       "stock_name": "智邦",
       "old_weight": 0.0,
@@ -39246,7 +39246,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2327",
       "stock_name": "國巨*",
       "old_weight": 0.0,
@@ -39291,7 +39291,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2885",
       "stock_name": "元大金",
       "old_weight": 0.0,
@@ -39321,7 +39321,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2383",
       "stock_name": "台光電",
       "old_weight": 0.0,
@@ -39336,7 +39336,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2303",
       "stock_name": "聯電",
       "old_weight": 0.0,
@@ -39366,7 +39366,7 @@
     {
       "action": "added",
       "etf_ticker": "009816",
-      "etf_name": "009816",
+      "etf_name": "凱基台灣TOP50",
       "stock_ticker": "2412",
       "stock_name": "中華電信",
       "old_weight": 0.0,
@@ -39726,7 +39726,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 39.82,
           "weight_delta": 39.82,
@@ -39984,7 +39984,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.93,
           "weight_delta": 1.93,
@@ -40194,7 +40194,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.7,
           "weight_delta": 1.7,
@@ -40452,7 +40452,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 4.39,
           "weight_delta": 4.39,
@@ -40578,7 +40578,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.65,
           "weight_delta": 0.65,
@@ -40752,7 +40752,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 8.97,
           "weight_delta": 8.97,
@@ -41237,7 +41237,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.62,
           "weight_delta": 0.62,
@@ -41574,7 +41574,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.55,
           "weight_delta": 0.55,
@@ -41687,7 +41687,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.58,
           "weight_delta": 1.58,
@@ -41898,7 +41898,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.02,
           "weight_delta": 1.02,
@@ -42084,7 +42084,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 2.72,
           "weight_delta": 2.72,
@@ -42342,7 +42342,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 6.09,
           "weight_delta": 6.09,
@@ -42618,7 +42618,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.89,
           "weight_delta": 0.89,
@@ -42870,7 +42870,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 1.78,
           "weight_delta": 1.78,
@@ -43040,7 +43040,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.84,
           "weight_delta": 0.84,
@@ -43286,7 +43286,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.75,
           "weight_delta": 0.75,
@@ -43526,7 +43526,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.38,
           "weight_delta": 0.38,
@@ -43706,7 +43706,7 @@
         {
           "action": "added",
           "etf_ticker": "009816",
-          "etf_name": "009816",
+          "etf_name": "凱基台灣TOP50",
           "old_weight": 0.0,
           "new_weight": 0.7,
           "weight_delta": 0.7,

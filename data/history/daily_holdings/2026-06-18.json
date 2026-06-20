@@ -1,6 +1,6 @@
 {
   "data_date": "2026-06-18",
-  "created_at": "2026-06-21T01:17:26",
+  "created_at": "2026-06-21T01:36:43",
   "etfs": {
     "00400A": [
       {
@@ -4332,7 +4332,7 @@
       {
         "ticker": "1216",
         "name": "統一企業",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.34,
         "shares": 7041000,
         "date": "2026-06-18"
@@ -4340,7 +4340,7 @@
       {
         "ticker": "1303",
         "name": "南亞塑膠",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.72,
         "shares": 7938000,
         "date": "2026-06-18"
@@ -4348,7 +4348,7 @@
       {
         "ticker": "2059",
         "name": "川湖",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.47,
         "shares": 106000,
         "date": "2026-06-18"
@@ -4356,7 +4356,7 @@
       {
         "ticker": "2301",
         "name": "光寶科",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.42,
         "shares": 3069000,
         "date": "2026-06-18"
@@ -4364,7 +4364,7 @@
       {
         "ticker": "2303",
         "name": "聯電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.58,
         "shares": 16674000,
         "date": "2026-06-18"
@@ -4372,7 +4372,7 @@
       {
         "ticker": "2308",
         "name": "台達電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 6.09,
         "shares": 4346000,
         "date": "2026-06-18"
@@ -4380,7 +4380,7 @@
       {
         "ticker": "2317",
         "name": "鴻海",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 4.39,
         "shares": 25067000,
         "date": "2026-06-18"
@@ -4388,7 +4388,7 @@
       {
         "ticker": "2327",
         "name": "國巨*",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.93,
         "shares": 2739000,
         "date": "2026-06-18"
@@ -4396,7 +4396,7 @@
       {
         "ticker": "2330",
         "name": "台積電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 39.82,
         "shares": 25331000,
         "date": "2026-06-18"
@@ -4404,7 +4404,7 @@
       {
         "ticker": "2344",
         "name": "華邦電子",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.65,
         "shares": 4552000,
         "date": "2026-06-18"
@@ -4412,7 +4412,7 @@
       {
         "ticker": "2345",
         "name": "智邦",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 2.29,
         "shares": 1443000,
         "date": "2026-06-18"
@@ -4420,7 +4420,7 @@
       {
         "ticker": "2357",
         "name": "華碩",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.55,
         "shares": 1062000,
         "date": "2026-06-18"
@@ -4428,7 +4428,7 @@
       {
         "ticker": "2360",
         "name": "致茂",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.84,
         "shares": 559000,
         "date": "2026-06-18"
@@ -4436,7 +4436,7 @@
       {
         "ticker": "2368",
         "name": "金像電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.43,
         "shares": 482000,
         "date": "2026-06-18"
@@ -4444,7 +4444,7 @@
       {
         "ticker": "2382",
         "name": "廣達",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.96,
         "shares": 3908000,
         "date": "2026-06-18"
@@ -4452,7 +4452,7 @@
       {
         "ticker": "2383",
         "name": "台光電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.7,
         "shares": 466000,
         "date": "2026-06-18"
@@ -4460,7 +4460,7 @@
       {
         "ticker": "2408",
         "name": "南亞科技",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.62,
         "shares": 2083000,
         "date": "2026-06-18"
@@ -4468,7 +4468,7 @@
       {
         "ticker": "2412",
         "name": "中華電信",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.5,
         "shares": 15983000,
         "date": "2026-06-18"
@@ -4476,7 +4476,7 @@
       {
         "ticker": "2449",
         "name": "京元電子",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.32,
         "shares": 1607000,
         "date": "2026-06-18"
@@ -4484,7 +4484,7 @@
       {
         "ticker": "2454",
         "name": "聯發科",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 8.97,
         "shares": 3134000,
         "date": "2026-06-18"
@@ -4492,7 +4492,7 @@
       {
         "ticker": "2603",
         "name": "長榮海運",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.38,
         "shares": 3035000,
         "date": "2026-06-18"
@@ -4500,7 +4500,7 @@
       {
         "ticker": "2880",
         "name": "華南金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.38,
         "shares": 15179000,
         "date": "2026-06-18"
@@ -4508,7 +4508,7 @@
       {
         "ticker": "2881",
         "name": "富邦金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.29,
         "shares": 14307000,
         "date": "2026-06-18"
@@ -4516,7 +4516,7 @@
       {
         "ticker": "2882",
         "name": "國泰金融",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.04,
         "shares": 13855000,
         "date": "2026-06-18"
@@ -4524,7 +4524,7 @@
       {
         "ticker": "2883",
         "name": "凱基金控",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.49,
         "shares": 24330000,
         "date": "2026-06-18"
@@ -4532,7 +4532,7 @@
       {
         "ticker": "2884",
         "name": "玉山金融控股",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.52,
         "shares": 22618000,
         "date": "2026-06-18"
@@ -4540,7 +4540,7 @@
       {
         "ticker": "2885",
         "name": "元大金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.78,
         "shares": 40177000,
         "date": "2026-06-18"
@@ -4548,7 +4548,7 @@
       {
         "ticker": "2886",
         "name": "兆豐金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.5,
         "shares": 16888000,
         "date": "2026-06-18"
@@ -4556,7 +4556,7 @@
       {
         "ticker": "2887",
         "name": "台新新光金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.73,
         "shares": 34619000,
         "date": "2026-06-18"
@@ -4564,7 +4564,7 @@
       {
         "ticker": "2890",
         "name": "永豐金融控股",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.53,
         "shares": 20338000,
         "date": "2026-06-18"
@@ -4572,7 +4572,7 @@
       {
         "ticker": "2891",
         "name": "中國信託",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.29,
         "shares": 27431000,
         "date": "2026-06-18"
@@ -4580,7 +4580,7 @@
       {
         "ticker": "2892",
         "name": "第一金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.36,
         "shares": 16952000,
         "date": "2026-06-18"
@@ -4588,7 +4588,7 @@
       {
         "ticker": "3008",
         "name": "大立光",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.55,
         "shares": 162000,
         "date": "2026-06-18"
@@ -4596,7 +4596,7 @@
       {
         "ticker": "3017",
         "name": "奇鋐",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.75,
         "shares": 476000,
         "date": "2026-06-18"
@@ -4604,7 +4604,7 @@
       {
         "ticker": "3037",
         "name": "欣興",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 2.32,
         "shares": 3679000,
         "date": "2026-06-18"
@@ -4612,7 +4612,7 @@
       {
         "ticker": "3045",
         "name": "台灣大",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.26,
         "shares": 3287000,
         "date": "2026-06-18"
@@ -4620,7 +4620,7 @@
       {
         "ticker": "3231",
         "name": "緯創資通",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.47,
         "shares": 4420000,
         "date": "2026-06-18"
@@ -4628,7 +4628,7 @@
       {
         "ticker": "3443",
         "name": "創意",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.89,
         "shares": 282000,
         "date": "2026-06-18"
@@ -4636,7 +4636,7 @@
       {
         "ticker": "3653",
         "name": "健策",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.88,
         "shares": 340000,
         "date": "2026-06-18"
@@ -4644,7 +4644,7 @@
       {
         "ticker": "3661",
         "name": "世芯-KY",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.33,
         "shares": 114000,
         "date": "2026-06-18"
@@ -4652,7 +4652,7 @@
       {
         "ticker": "3665",
         "name": "貿聯-KY",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.82,
         "shares": 599000,
         "date": "2026-06-18"
@@ -4660,7 +4660,7 @@
       {
         "ticker": "3711",
         "name": "日月光投控",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 2.72,
         "shares": 6808000,
         "date": "2026-06-18"
@@ -4668,7 +4668,7 @@
       {
         "ticker": "4904",
         "name": "遠傳電信",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.26,
         "shares": 3632000,
         "date": "2026-06-18"
@@ -4676,7 +4676,7 @@
       {
         "ticker": "4958",
         "name": "臻鼎-KY",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 1.02,
         "shares": 2437000,
         "date": "2026-06-18"
@@ -4684,7 +4684,7 @@
       {
         "ticker": "5880",
         "name": "合庫金",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.27,
         "shares": 16484000,
         "date": "2026-06-18"
@@ -4692,7 +4692,7 @@
       {
         "ticker": "6505",
         "name": "台塑化",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.12,
         "shares": 3537000,
         "date": "2026-06-18"
@@ -4700,7 +4700,7 @@
       {
         "ticker": "6515",
         "name": "穎崴",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.33,
         "shares": 53000,
         "date": "2026-06-18"
@@ -4708,7 +4708,7 @@
       {
         "ticker": "6669",
         "name": "緯穎",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.57,
         "shares": 171000,
         "date": "2026-06-18"
@@ -4716,7 +4716,7 @@
       {
         "ticker": "7769",
         "name": "鴻勁",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.7,
         "shares": 153000,
         "date": "2026-06-18"
@@ -4724,7 +4724,7 @@
       {
         "ticker": "8046",
         "name": "南電",
-        "etf_name": "009816",
+        "etf_name": "凱基台灣TOP50",
         "weight": 0.4,
         "shares": 693000,
         "date": "2026-06-18"

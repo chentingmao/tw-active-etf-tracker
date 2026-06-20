@@ -1,6 +1,6 @@
 {
   "data_date": "2026-06-18",
-  "updated_at": "2026-06-21T01:16:41",
+  "updated_at": "2026-06-21T01:36:07",
   "source": "etfinfo",
   "formula": "(market_price / nav - 1) * 100",
   "etfs": [
@@ -73,6 +73,20 @@
       "source": "etfinfo",
       "type": "passive",
       "color": "#60a5fa"
+    },
+    {
+      "ticker": "009816",
+      "name": "凱基台灣TOP50",
+      "date": "2026-06-18",
+      "price": 15.68,
+      "nav": 15.66,
+      "premium_discount": 0.13,
+      "change": 0.13,
+      "aum": 151016000000.0,
+      "beneficiaries": 852472,
+      "source": "etfinfo",
+      "type": "passive",
+      "color": "#38bdf8"
     },
     {
       "ticker": "00980A",
