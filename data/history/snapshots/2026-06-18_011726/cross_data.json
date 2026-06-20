@@ -2,10 +2,10 @@
   {
     "ticker": "2454",
     "name": "聯發科",
-    "etf_count": 23,
-    "max_weight": 8.97,
+    "etf_count": 22,
+    "max_weight": 8.6,
     "total_capital": 0,
-    "total_shares": 68435617,
+    "total_shares": 65301617,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -204,25 +204,16 @@
         "capital_yi": 0,
         "shares": 48500,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 8.97,
-        "capital_yi": 0,
-        "shares": 3134000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2330",
     "name": "台積電",
-    "etf_count": 22,
+    "etf_count": 21,
     "max_weight": 57.01,
     "total_capital": 0,
-    "total_shares": 689459057,
+    "total_shares": 664128057,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -412,25 +403,16 @@
         "capital_yi": 0,
         "shares": 22000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 39.82,
-        "capital_yi": 0,
-        "shares": 25331000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2383",
     "name": "台光電",
-    "etf_count": 21,
+    "etf_count": 20,
     "max_weight": 8.44,
     "total_capital": 0,
-    "total_shares": 16681324,
+    "total_shares": 16215324,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -611,25 +593,16 @@
         "capital_yi": 0,
         "shares": 8000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.7,
-        "capital_yi": 0,
-        "shares": 466000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "3711",
     "name": "日月光投控",
-    "etf_count": 21,
+    "etf_count": 20,
     "max_weight": 4.76,
     "total_capital": 0,
-    "total_shares": 201312161,
+    "total_shares": 194504161,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -810,25 +783,16 @@
         "capital_yi": 0,
         "shares": 184000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 2.72,
-        "capital_yi": 0,
-        "shares": 6808000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2345",
     "name": "智邦",
-    "etf_count": 20,
+    "etf_count": 19,
     "max_weight": 5.18,
     "total_capital": 0,
-    "total_shares": 26757792,
+    "total_shares": 25314792,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -1000,25 +964,16 @@
         "capital_yi": 0,
         "shares": 11000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 2.29,
-        "capital_yi": 0,
-        "shares": 1443000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2360",
     "name": "致茂",
-    "etf_count": 20,
+    "etf_count": 19,
     "max_weight": 4.15,
     "total_capital": 0,
-    "total_shares": 12808453,
+    "total_shares": 12249453,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -1190,25 +1145,16 @@
         "capital_yi": 0,
         "shares": 21000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.84,
-        "capital_yi": 0,
-        "shares": 559000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2368",
     "name": "金像電",
-    "etf_count": 20,
+    "etf_count": 19,
     "max_weight": 3.78,
     "total_capital": 0,
-    "total_shares": 26346151,
+    "total_shares": 25864151,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -1380,25 +1326,16 @@
         "capital_yi": 0,
         "shares": 20000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.43,
-        "capital_yi": 0,
-        "shares": 482000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2308",
     "name": "台達電",
-    "etf_count": 20,
-    "max_weight": 6.09,
+    "etf_count": 19,
+    "max_weight": 5.71,
     "total_capital": 0,
-    "total_shares": 67175248,
+    "total_shares": 62829248,
     "etfs": [
       {
         "etf_ticker": "00981A",
@@ -1570,25 +1507,16 @@
         "capital_yi": 0,
         "shares": 69000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 6.09,
-        "capital_yi": 0,
-        "shares": 4346000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "3037",
     "name": "欣興",
-    "etf_count": 20,
+    "etf_count": 19,
     "max_weight": 5.7813,
     "total_capital": 0,
-    "total_shares": 68611435,
+    "total_shares": 64932435,
     "etfs": [
       {
         "etf_ticker": "00981A",
@@ -1759,196 +1687,6 @@
         "weight": 0.37,
         "capital_yi": 0,
         "shares": 12000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 2.32,
-        "capital_yi": 0,
-        "shares": 3679000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "3017",
-    "name": "奇鋐",
-    "etf_count": 19,
-    "max_weight": 6.2639,
-    "total_capital": 0,
-    "total_shares": 20353661,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 1.7956,
-        "capital_yi": 0,
-        "shares": 407000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 4.18,
-        "capital_yi": 0,
-        "shares": 5191000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 2.238,
-        "capital_yi": 0,
-        "shares": 600000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 5.1496,
-        "capital_yi": 0,
-        "shares": 1009000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.73,
-        "capital_yi": 0,
-        "shares": 131000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 0.18,
-        "capital_yi": 0,
-        "shares": 6000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 1.8,
-        "capital_yi": 0,
-        "shares": 83000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 2.16,
-        "capital_yi": 0,
-        "shares": 104000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 3.61,
-        "capital_yi": 0,
-        "shares": 86500,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 3.52,
-        "capital_yi": 0,
-        "shares": 85000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 0.51,
-        "capital_yi": 0,
-        "shares": 11000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 2.36,
-        "capital_yi": 0,
-        "shares": 221000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00987A",
-        "etf_name": "主動台新優勢成長",
-        "color": "#be123c",
-        "weight": 6.2639,
-        "capital_yi": 0,
-        "shares": 86000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.74,
-        "capital_yi": 0,
-        "shares": 6793161,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.74,
-        "capital_yi": 0,
-        "shares": 1414000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 4.45,
-        "capital_yi": 0,
-        "shares": 3250000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 3.942,
-        "capital_yi": 0,
-        "shares": 383000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00404A",
-        "etf_name": "主動聯博動能50",
-        "color": "#6366f1",
-        "weight": 1.3,
-        "capital_yi": 0,
-        "shares": 17000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.75,
-        "capital_yi": 0,
-        "shares": 476000,
         "date": "2026-06-18"
       }
     ]
@@ -2126,12 +1864,184 @@
     ]
   },
   {
+    "ticker": "3017",
+    "name": "奇鋐",
+    "etf_count": 18,
+    "max_weight": 6.2639,
+    "total_capital": 0,
+    "total_shares": 19877661,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 1.7956,
+        "capital_yi": 0,
+        "shares": 407000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 4.18,
+        "capital_yi": 0,
+        "shares": 5191000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 2.238,
+        "capital_yi": 0,
+        "shares": 600000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 5.1496,
+        "capital_yi": 0,
+        "shares": 1009000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.73,
+        "capital_yi": 0,
+        "shares": 131000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 0.18,
+        "capital_yi": 0,
+        "shares": 6000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 1.8,
+        "capital_yi": 0,
+        "shares": 83000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 2.16,
+        "capital_yi": 0,
+        "shares": 104000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 3.61,
+        "capital_yi": 0,
+        "shares": 86500,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 3.52,
+        "capital_yi": 0,
+        "shares": 85000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 0.51,
+        "capital_yi": 0,
+        "shares": 11000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 2.36,
+        "capital_yi": 0,
+        "shares": 221000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00987A",
+        "etf_name": "主動台新優勢成長",
+        "color": "#be123c",
+        "weight": 6.2639,
+        "capital_yi": 0,
+        "shares": 86000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.74,
+        "capital_yi": 0,
+        "shares": 6793161,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.74,
+        "capital_yi": 0,
+        "shares": 1414000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 4.45,
+        "capital_yi": 0,
+        "shares": 3250000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 3.942,
+        "capital_yi": 0,
+        "shares": 383000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00404A",
+        "etf_name": "主動聯博動能50",
+        "color": "#6366f1",
+        "weight": 1.3,
+        "capital_yi": 0,
+        "shares": 17000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "2303",
     "name": "聯電",
-    "etf_count": 18,
+    "etf_count": 17,
     "max_weight": 7.25,
     "total_capital": 0,
-    "total_shares": 1034668851,
+    "total_shares": 1017994851,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -2285,25 +2195,16 @@
         "capital_yi": 0,
         "shares": 299000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.58,
-        "capital_yi": 0,
-        "shares": 16674000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "3443",
     "name": "創意",
-    "etf_count": 18,
+    "etf_count": 17,
     "max_weight": 3.2142,
     "total_capital": 0,
-    "total_shares": 3743050,
+    "total_shares": 3461050,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -2457,25 +2358,16 @@
         "capital_yi": 0,
         "shares": 8000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.89,
-        "capital_yi": 0,
-        "shares": 282000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "3665",
     "name": "貿聯-KY",
-    "etf_count": 18,
+    "etf_count": 17,
     "max_weight": 4.2648,
     "total_capital": 0,
-    "total_shares": 12943184,
+    "total_shares": 12344184,
     "etfs": [
       {
         "etf_ticker": "00981A",
@@ -2629,25 +2521,16 @@
         "capital_yi": 0,
         "shares": 6000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.82,
-        "capital_yi": 0,
-        "shares": 599000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "6669",
     "name": "緯穎",
-    "etf_count": 16,
+    "etf_count": 15,
     "max_weight": 4.29,
     "total_capital": 0,
-    "total_shares": 7117196,
+    "total_shares": 6946196,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -2783,25 +2666,16 @@
         "capital_yi": 0,
         "shares": 3000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.57,
-        "capital_yi": 0,
-        "shares": 171000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2327",
     "name": "國巨*",
-    "etf_count": 16,
+    "etf_count": 15,
     "max_weight": 10.323,
     "total_capital": 0,
-    "total_shares": 88977983,
+    "total_shares": 86238983,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -2936,613 +2810,6 @@
         "weight": 0.55,
         "capital_yi": 0,
         "shares": 16000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.93,
-        "capital_yi": 0,
-        "shares": 2739000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "3653",
-    "name": "健策",
-    "etf_count": 16,
-    "max_weight": 3.02,
-    "total_capital": 0,
-    "total_shares": 6279507,
-    "etfs": [
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 3.02,
-        "capital_yi": 0,
-        "shares": 2267000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.006,
-        "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 1.8044,
-        "capital_yi": 0,
-        "shares": 214000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.27,
-        "capital_yi": 0,
-        "shares": 57000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.57,
-        "capital_yi": 0,
-        "shares": 70000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 1.38,
-        "capital_yi": 0,
-        "shares": 20000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 2.05,
-        "capital_yi": 0,
-        "shares": 30000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 1.53,
-        "capital_yi": 0,
-        "shares": 20000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 1.11,
-        "capital_yi": 0,
-        "shares": 63000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 1.2402,
-        "capital_yi": 0,
-        "shares": 11000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00987A",
-        "etf_name": "主動台新優勢成長",
-        "color": "#be123c",
-        "weight": 2.2119,
-        "capital_yi": 0,
-        "shares": 18000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.33,
-        "capital_yi": 0,
-        "shares": 1849507,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.33,
-        "capital_yi": 0,
-        "shares": 384000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 1.88,
-        "capital_yi": 0,
-        "shares": 830000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 1.7854,
-        "capital_yi": 0,
-        "shares": 105000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.88,
-        "capital_yi": 0,
-        "shares": 340000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2382",
-    "name": "廣達",
-    "etf_count": 16,
-    "max_weight": 11.6564,
-    "total_capital": 0,
-    "total_shares": 491778324,
-    "etfs": [
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 0.0,
-        "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.005,
-        "capital_yi": 0,
-        "shares": 9000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.11,
-        "capital_yi": 0,
-        "shares": 530000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 3.91,
-        "capital_yi": 0,
-        "shares": 810000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.01,
-        "capital_yi": 0,
-        "shares": 999,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 0.13,
-        "capital_yi": 0,
-        "shares": 20000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 0.04,
-        "capital_yi": 0,
-        "shares": 6000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 1.11,
-        "capital_yi": 0,
-        "shares": 664000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 2.3308,
-        "capital_yi": 0,
-        "shares": 218000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.96,
-        "capital_yi": 0,
-        "shares": 56105112,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.96,
-        "capital_yi": 0,
-        "shares": 11672301,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 3.98,
-        "capital_yi": 0,
-        "shares": 75934912,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 10.24,
-        "capital_yi": 0,
-        "shares": 168841000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00404A",
-        "etf_name": "主動聯博動能50",
-        "color": "#6366f1",
-        "weight": 2.73,
-        "capital_yi": 0,
-        "shares": 228000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 11.6564,
-        "capital_yi": 0,
-        "shares": 172830000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.96,
-        "capital_yi": 0,
-        "shares": 3908000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "4958",
-    "name": "臻鼎-KY",
-    "etf_count": 15,
-    "max_weight": 7.56,
-    "total_capital": 0,
-    "total_shares": 65542000,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 3.714,
-        "capital_yi": 0,
-        "shares": 3147000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 0.31,
-        "capital_yi": 0,
-        "shares": 1428000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 1.996,
-        "capital_yi": 0,
-        "shares": 2000000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.51,
-        "capital_yi": 0,
-        "shares": 428000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00990A",
-        "etf_name": "主動元大AI新經濟",
-        "color": "#7c3aed",
-        "weight": 0.67,
-        "capital_yi": 0,
-        "shares": 468000,
-        "date": "2026-06-17"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 88000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 2.81,
-        "capital_yi": 0,
-        "shares": 252000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 1.19,
-        "capital_yi": 0,
-        "shares": 107000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 7.56,
-        "capital_yi": 0,
-        "shares": 611000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 2.793,
-        "capital_yi": 0,
-        "shares": 153000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 16186000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 3367000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 2.36,
-        "capital_yi": 0,
-        "shares": 6440000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.94,
-        "capital_yi": 0,
-        "shares": 28430000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.02,
-        "capital_yi": 0,
-        "shares": 2437000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "7769",
-    "name": "鴻勁",
-    "etf_count": 15,
-    "max_weight": 3.81,
-    "total_capital": 0,
-    "total_shares": 2634990,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 1.1924,
-        "capital_yi": 0,
-        "shares": 93000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 2.927,
-        "capital_yi": 0,
-        "shares": 270000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 1.3497,
-        "capital_yi": 0,
-        "shares": 91000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 3.81,
-        "capital_yi": 0,
-        "shares": 93000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 0.28,
-        "capital_yi": 0,
-        "shares": 3000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 1.95,
-        "capital_yi": 0,
-        "shares": 29000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 2.18,
-        "capital_yi": 0,
-        "shares": 18000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 1.93,
-        "capital_yi": 0,
-        "shares": 16000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 0.4,
-        "capital_yi": 0,
-        "shares": 13000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 2.7767,
-        "capital_yi": 0,
-        "shares": 14000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.38,
-        "capital_yi": 0,
-        "shares": 1210990,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.39,
-        "capital_yi": 0,
-        "shares": 252000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 1.11,
-        "capital_yi": 0,
-        "shares": 279000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 2.9912,
-        "capital_yi": 0,
-        "shares": 100000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.7,
-        "capital_yi": 0,
-        "shares": 153000,
         "date": "2026-06-18"
       }
     ]
@@ -3693,12 +2960,574 @@
     ]
   },
   {
+    "ticker": "3653",
+    "name": "健策",
+    "etf_count": 15,
+    "max_weight": 3.02,
+    "total_capital": 0,
+    "total_shares": 5939507,
+    "etfs": [
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 3.02,
+        "capital_yi": 0,
+        "shares": 2267000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.006,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 1.8044,
+        "capital_yi": 0,
+        "shares": 214000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.27,
+        "capital_yi": 0,
+        "shares": 57000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.57,
+        "capital_yi": 0,
+        "shares": 70000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 1.38,
+        "capital_yi": 0,
+        "shares": 20000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 2.05,
+        "capital_yi": 0,
+        "shares": 30000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 1.53,
+        "capital_yi": 0,
+        "shares": 20000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 1.11,
+        "capital_yi": 0,
+        "shares": 63000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 1.2402,
+        "capital_yi": 0,
+        "shares": 11000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00987A",
+        "etf_name": "主動台新優勢成長",
+        "color": "#be123c",
+        "weight": 2.2119,
+        "capital_yi": 0,
+        "shares": 18000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.33,
+        "capital_yi": 0,
+        "shares": 1849507,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.33,
+        "capital_yi": 0,
+        "shares": 384000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 1.88,
+        "capital_yi": 0,
+        "shares": 830000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 1.7854,
+        "capital_yi": 0,
+        "shares": 105000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2382",
+    "name": "廣達",
+    "etf_count": 15,
+    "max_weight": 11.6564,
+    "total_capital": 0,
+    "total_shares": 487870324,
+    "etfs": [
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.005,
+        "capital_yi": 0,
+        "shares": 9000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.11,
+        "capital_yi": 0,
+        "shares": 530000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 3.91,
+        "capital_yi": 0,
+        "shares": 810000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.01,
+        "capital_yi": 0,
+        "shares": 999,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 0.13,
+        "capital_yi": 0,
+        "shares": 20000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 0.04,
+        "capital_yi": 0,
+        "shares": 6000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 1.11,
+        "capital_yi": 0,
+        "shares": 664000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 2.3308,
+        "capital_yi": 0,
+        "shares": 218000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.96,
+        "capital_yi": 0,
+        "shares": 56105112,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.96,
+        "capital_yi": 0,
+        "shares": 11672301,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 3.98,
+        "capital_yi": 0,
+        "shares": 75934912,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 10.24,
+        "capital_yi": 0,
+        "shares": 168841000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00404A",
+        "etf_name": "主動聯博動能50",
+        "color": "#6366f1",
+        "weight": 2.73,
+        "capital_yi": 0,
+        "shares": 228000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 11.6564,
+        "capital_yi": 0,
+        "shares": 172830000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "4958",
+    "name": "臻鼎-KY",
+    "etf_count": 14,
+    "max_weight": 7.56,
+    "total_capital": 0,
+    "total_shares": 63105000,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 3.714,
+        "capital_yi": 0,
+        "shares": 3147000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 0.31,
+        "capital_yi": 0,
+        "shares": 1428000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 1.996,
+        "capital_yi": 0,
+        "shares": 2000000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.51,
+        "capital_yi": 0,
+        "shares": 428000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00990A",
+        "etf_name": "主動元大AI新經濟",
+        "color": "#7c3aed",
+        "weight": 0.67,
+        "capital_yi": 0,
+        "shares": 468000,
+        "date": "2026-06-17"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 0.49,
+        "capital_yi": 0,
+        "shares": 88000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 2.81,
+        "capital_yi": 0,
+        "shares": 252000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 1.19,
+        "capital_yi": 0,
+        "shares": 107000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 7.56,
+        "capital_yi": 0,
+        "shares": 611000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 2.793,
+        "capital_yi": 0,
+        "shares": 153000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 16186000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 3367000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 2.36,
+        "capital_yi": 0,
+        "shares": 6440000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.94,
+        "capital_yi": 0,
+        "shares": 28430000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "7769",
+    "name": "鴻勁",
+    "etf_count": 14,
+    "max_weight": 3.81,
+    "total_capital": 0,
+    "total_shares": 2481990,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 1.1924,
+        "capital_yi": 0,
+        "shares": 93000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 2.927,
+        "capital_yi": 0,
+        "shares": 270000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 1.3497,
+        "capital_yi": 0,
+        "shares": 91000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 3.81,
+        "capital_yi": 0,
+        "shares": 93000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 0.28,
+        "capital_yi": 0,
+        "shares": 3000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 1.95,
+        "capital_yi": 0,
+        "shares": 29000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 2.18,
+        "capital_yi": 0,
+        "shares": 18000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 1.93,
+        "capital_yi": 0,
+        "shares": 16000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 0.4,
+        "capital_yi": 0,
+        "shares": 13000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 2.7767,
+        "capital_yi": 0,
+        "shares": 14000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.38,
+        "capital_yi": 0,
+        "shares": 1210990,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.39,
+        "capital_yi": 0,
+        "shares": 252000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 1.11,
+        "capital_yi": 0,
+        "shares": 279000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 2.9912,
+        "capital_yi": 0,
+        "shares": 100000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "6515",
     "name": "穎崴",
-    "etf_count": 15,
+    "etf_count": 14,
     "max_weight": 3.73,
     "total_capital": 0,
-    "total_shares": 985500,
+    "total_shares": 932500,
     "etfs": [
       {
         "etf_ticker": "00981A",
@@ -3824,287 +3653,6 @@
         "weight": 0.75,
         "capital_yi": 0,
         "shares": 2500,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.33,
-        "capital_yi": 0,
-        "shares": 53000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "8046",
-    "name": "南電",
-    "etf_count": 14,
-    "max_weight": 3.57,
-    "total_capital": 0,
-    "total_shares": 21474000,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 0.0016,
-        "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 3.18,
-        "capital_yi": 0,
-        "shares": 10828000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 1.97,
-        "capital_yi": 0,
-        "shares": 1450000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.08,
-        "capital_yi": 0,
-        "shares": 219000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.85,
-        "capital_yi": 0,
-        "shares": 350000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 1.64,
-        "capital_yi": 0,
-        "shares": 212000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 3.57,
-        "capital_yi": 0,
-        "shares": 235000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 2.56,
-        "capital_yi": 0,
-        "shares": 170000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 2.95,
-        "capital_yi": 0,
-        "shares": 175000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.18,
-        "capital_yi": 0,
-        "shares": 4547000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.18,
-        "capital_yi": 0,
-        "shares": 945000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 0.54,
-        "capital_yi": 0,
-        "shares": 1080000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 2.1327,
-        "capital_yi": 0,
-        "shares": 569000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.4,
-        "capital_yi": 0,
-        "shares": 693000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2344",
-    "name": "華邦電子",
-    "etf_count": 14,
-    "max_weight": 4.84,
-    "total_capital": 0,
-    "total_shares": 136933697,
-    "etfs": [
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.003,
-        "capital_yi": 0,
-        "shares": 9000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 2.04,
-        "capital_yi": 0,
-        "shares": 1839000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 0.9,
-        "capital_yi": 0,
-        "shares": 491000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 4.19,
-        "capital_yi": 0,
-        "shares": 2402000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 3.3,
-        "capital_yi": 0,
-        "shares": 870000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 0.83,
-        "capital_yi": 0,
-        "shares": 220000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 3.77,
-        "capital_yi": 0,
-        "shares": 895000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.5033,
-        "capital_yi": 0,
-        "shares": 81000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.65,
-        "capital_yi": 0,
-        "shares": 65663697,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.65,
-        "capital_yi": 0,
-        "shares": 13661000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 4.84,
-        "capital_yi": 0,
-        "shares": 38800000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 0.18,
-        "capital_yi": 0,
-        "shares": 6064000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 1.2987,
-        "capital_yi": 0,
-        "shares": 1386000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.65,
-        "capital_yi": 0,
-        "shares": 4552000,
         "date": "2026-06-18"
       }
     ]
@@ -4237,12 +3785,266 @@
     ]
   },
   {
+    "ticker": "8046",
+    "name": "南電",
+    "etf_count": 13,
+    "max_weight": 3.57,
+    "total_capital": 0,
+    "total_shares": 20781000,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 0.0016,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 3.18,
+        "capital_yi": 0,
+        "shares": 10828000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 1.97,
+        "capital_yi": 0,
+        "shares": 1450000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.08,
+        "capital_yi": 0,
+        "shares": 219000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.85,
+        "capital_yi": 0,
+        "shares": 350000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 1.64,
+        "capital_yi": 0,
+        "shares": 212000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 3.57,
+        "capital_yi": 0,
+        "shares": 235000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 2.56,
+        "capital_yi": 0,
+        "shares": 170000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 2.95,
+        "capital_yi": 0,
+        "shares": 175000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.18,
+        "capital_yi": 0,
+        "shares": 4547000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.18,
+        "capital_yi": 0,
+        "shares": 945000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 0.54,
+        "capital_yi": 0,
+        "shares": 1080000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 2.1327,
+        "capital_yi": 0,
+        "shares": 569000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2344",
+    "name": "華邦電子",
+    "etf_count": 13,
+    "max_weight": 4.84,
+    "total_capital": 0,
+    "total_shares": 132381697,
+    "etfs": [
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.003,
+        "capital_yi": 0,
+        "shares": 9000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 2.04,
+        "capital_yi": 0,
+        "shares": 1839000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 0.9,
+        "capital_yi": 0,
+        "shares": 491000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 4.19,
+        "capital_yi": 0,
+        "shares": 2402000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 3.3,
+        "capital_yi": 0,
+        "shares": 870000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 0.83,
+        "capital_yi": 0,
+        "shares": 220000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 3.77,
+        "capital_yi": 0,
+        "shares": 895000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.5033,
+        "capital_yi": 0,
+        "shares": 81000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.65,
+        "capital_yi": 0,
+        "shares": 65663697,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.65,
+        "capital_yi": 0,
+        "shares": 13661000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 4.84,
+        "capital_yi": 0,
+        "shares": 38800000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 0.18,
+        "capital_yi": 0,
+        "shares": 6064000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 1.2987,
+        "capital_yi": 0,
+        "shares": 1386000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "2885",
     "name": "元大金",
-    "etf_count": 13,
+    "etf_count": 12,
     "max_weight": 3.7,
     "total_capital": 0,
-    "total_shares": 917843944,
+    "total_shares": 877666944,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -4351,25 +4153,16 @@
         "capital_yi": 0,
         "shares": 1712000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.78,
-        "capital_yi": 0,
-        "shares": 40177000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2881",
     "name": "富邦金",
-    "etf_count": 13,
+    "etf_count": 12,
     "max_weight": 14.4546,
     "total_capital": 0,
-    "total_shares": 950812964,
+    "total_shares": 936505964,
     "etfs": [
       {
         "etf_ticker": "00982A",
@@ -4478,25 +4271,16 @@
         "capital_yi": 0,
         "shares": 583940000,
         "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.29,
-        "capital_yi": 0,
-        "shares": 14307000,
-        "date": "2026-06-18"
       }
     ]
   },
   {
     "ticker": "2408",
     "name": "南亞科技",
-    "etf_count": 13,
+    "etf_count": 12,
     "max_weight": 5.928,
     "total_capital": 0,
-    "total_shares": 55241232,
+    "total_shares": 53158232,
     "etfs": [
       {
         "etf_ticker": "00991A",
@@ -4604,242 +4388,6 @@
         "weight": 0.0965,
         "capital_yi": 0,
         "shares": 49000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.62,
-        "capital_yi": 0,
-        "shares": 2083000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2891",
-    "name": "中國信託",
-    "etf_count": 12,
-    "max_weight": 11.3,
-    "total_capital": 0,
-    "total_shares": 2698102263,
-    "etfs": [
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.001,
-        "capital_yi": 0,
-        "shares": 9000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.13,
-        "capital_yi": 0,
-        "shares": 2849000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 2.6,
-        "capital_yi": 0,
-        "shares": 2837000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 0.79,
-        "capital_yi": 0,
-        "shares": 1217000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 0.55,
-        "capital_yi": 0,
-        "shares": 876000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 2.3736,
-        "capital_yi": 0,
-        "shares": 1161000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 1.24,
-        "capital_yi": 0,
-        "shares": 377513392,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 1.23,
-        "capital_yi": 0,
-        "shares": 78120506,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 4.45,
-        "capital_yi": 0,
-        "shares": 444167365,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 10.27,
-        "capital_yi": 0,
-        "shares": 885744000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 11.3,
-        "capital_yi": 0,
-        "shares": 876177000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.29,
-        "capital_yi": 0,
-        "shares": 27431000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2059",
-    "name": "川湖",
-    "etf_count": 11,
-    "max_weight": 4.2774,
-    "total_capital": 0,
-    "total_shares": 2561826,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 2.3094,
-        "capital_yi": 0,
-        "shares": 183000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 2.987,
-        "capital_yi": 0,
-        "shares": 280000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 4.2774,
-        "capital_yi": 0,
-        "shares": 293000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 4.07,
-        "capital_yi": 0,
-        "shares": 110000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.31,
-        "capital_yi": 0,
-        "shares": 38000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 2.03,
-        "capital_yi": 0,
-        "shares": 17000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 2.38,
-        "capital_yi": 0,
-        "shares": 78000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.37,
-        "capital_yi": 0,
-        "shares": 1170826,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.37,
-        "capital_yi": 0,
-        "shares": 244000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 1.2365,
-        "capital_yi": 0,
-        "shares": 42000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 106000,
         "date": "2026-06-18"
       }
     ]
@@ -5063,27 +4611,18 @@
     ]
   },
   {
-    "ticker": "2317",
-    "name": "鴻海",
+    "ticker": "2891",
+    "name": "中國信託",
     "etf_count": 11,
-    "max_weight": 4.39,
+    "max_weight": 11.3,
     "total_capital": 0,
-    "total_shares": 413265320,
+    "total_shares": 2670671263,
     "etfs": [
-      {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 0.66,
-        "capital_yi": 0,
-        "shares": 7307000,
-        "date": "2026-06-18"
-      },
       {
         "etf_ticker": "00991A",
         "etf_name": "主動復華未來50",
         "color": "#facc15",
-        "weight": 0.004,
+        "weight": 0.001,
         "capital_yi": 0,
         "shares": 9000,
         "date": "2026-06-18"
@@ -5092,81 +4631,190 @@
         "etf_ticker": "00980A",
         "etf_name": "主動野村臺灣優選",
         "color": "#2563eb",
-        "weight": 1.95,
+        "weight": 1.13,
         "capital_yi": 0,
-        "shares": 1286000,
+        "shares": 2849000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 2.6,
+        "capital_yi": 0,
+        "shares": 2837000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00985A",
         "etf_name": "主動野村台灣50",
         "color": "#1d4ed8",
-        "weight": 0.2,
+        "weight": 0.79,
         "capital_yi": 0,
-        "shares": 78000,
+        "shares": 1217000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 0.05,
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 0.55,
         "capital_yi": 0,
-        "shares": 9000,
+        "shares": 876000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00401A",
         "etf_name": "主動摩根台灣鑫收",
         "color": "#9333ea",
-        "weight": 0.7406,
+        "weight": 2.3736,
         "capital_yi": 0,
-        "shares": 97000,
+        "shares": 1161000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 3.17,
+        "weight": 1.24,
         "capital_yi": 0,
-        "shares": 259174462,
+        "shares": 377513392,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 3.17,
+        "weight": 1.23,
         "capital_yi": 0,
-        "shares": 53919679,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 3200000,
+        "shares": 78120506,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0056",
         "etf_name": "元大高股息",
         "color": "#4adfb8",
-        "weight": 2.36,
+        "weight": 4.45,
         "capital_yi": 0,
-        "shares": 63118179,
+        "shares": 444167365,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 4.39,
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 10.27,
         "capital_yi": 0,
-        "shares": 25067000,
+        "shares": 885744000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 11.3,
+        "capital_yi": 0,
+        "shares": 876177000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2059",
+    "name": "川湖",
+    "etf_count": 10,
+    "max_weight": 4.2774,
+    "total_capital": 0,
+    "total_shares": 2455826,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 2.3094,
+        "capital_yi": 0,
+        "shares": 183000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 2.987,
+        "capital_yi": 0,
+        "shares": 280000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 4.2774,
+        "capital_yi": 0,
+        "shares": 293000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 4.07,
+        "capital_yi": 0,
+        "shares": 110000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.31,
+        "capital_yi": 0,
+        "shares": 38000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 2.03,
+        "capital_yi": 0,
+        "shares": 17000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 2.38,
+        "capital_yi": 0,
+        "shares": 78000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.37,
+        "capital_yi": 0,
+        "shares": 1170826,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.37,
+        "capital_yi": 0,
+        "shares": 244000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 1.2365,
+        "capital_yi": 0,
+        "shares": 42000,
         "date": "2026-06-18"
       }
     ]
@@ -5372,20 +5020,20 @@
     ]
   },
   {
-    "ticker": "2449",
-    "name": "京元電子",
+    "ticker": "2317",
+    "name": "鴻海",
     "etf_count": 10,
-    "max_weight": 2.09,
+    "max_weight": 3.17,
     "total_capital": 0,
-    "total_shares": 85696353,
+    "total_shares": 388198320,
     "etfs": [
       {
         "etf_ticker": "00981A",
         "etf_name": "主動統一台股增長",
         "color": "#34d399",
-        "weight": 0.67,
+        "weight": 0.66,
         "capital_yi": 0,
-        "shares": 6484000,
+        "shares": 7307000,
         "date": "2026-06-18"
       },
       {
@@ -5398,375 +5046,75 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00995A",
-        "etf_name": "主動中信台灣卓越",
-        "color": "#0284c7",
-        "weight": 0.41,
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.95,
         "capital_yi": 0,
-        "shares": 77000,
+        "shares": 1286000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 0.2,
+        "capital_yi": 0,
+        "shares": 78000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00996A",
         "etf_name": "主動兆豐台灣豐收",
         "color": "#65a30d",
-        "weight": 0.04,
-        "capital_yi": 0,
-        "shares": 6000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 1.6843,
-        "capital_yi": 0,
-        "shares": 192000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.32,
-        "capital_yi": 0,
-        "shares": 23080016,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.32,
-        "capital_yi": 0,
-        "shares": 4802000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.09,
-        "capital_yi": 0,
-        "shares": 48646337,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00405A",
-        "etf_name": "主動富邦台灣龍耀",
-        "color": "#84cc16",
-        "weight": 1.0491,
-        "capital_yi": 0,
-        "shares": 793000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.32,
-        "capital_yi": 0,
-        "shares": 1607000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2603",
-    "name": "長榮海運",
-    "etf_count": 10,
-    "max_weight": 3.5,
-    "total_capital": 0,
-    "total_shares": 334353427,
-    "etfs": [
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.003,
+        "weight": 0.05,
         "capital_yi": 0,
         "shares": 9000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 2.3,
-        "capital_yi": 0,
-        "shares": 918000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00401A",
         "etf_name": "主動摩根台灣鑫收",
         "color": "#9333ea",
-        "weight": 1.0153,
+        "weight": 0.7406,
         "capital_yi": 0,
-        "shares": 185000,
+        "shares": 97000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 0.2,
+        "weight": 3.17,
         "capital_yi": 0,
-        "shares": 23059127,
+        "shares": 259174462,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 0.2,
+        "weight": 3.17,
         "capital_yi": 0,
-        "shares": 4797000,
+        "shares": 53919679,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 0.49,
+        "capital_yi": 0,
+        "shares": 3200000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0056",
         "etf_name": "元大高股息",
         "color": "#4adfb8",
-        "weight": 2.44,
+        "weight": 2.36,
         "capital_yi": 0,
-        "shares": 90718300,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 3.5,
-        "capital_yi": 0,
-        "shares": 112424000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00404A",
-        "etf_name": "主動聯博動能50",
-        "color": "#6366f1",
-        "weight": 1.87,
-        "capital_yi": 0,
-        "shares": 305000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 3.4239,
-        "capital_yi": 0,
-        "shares": 98903000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.38,
-        "capital_yi": 0,
-        "shares": 3035000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2882",
-    "name": "國泰金融",
-    "etf_count": 10,
-    "max_weight": 13.5824,
-    "total_capital": 0,
-    "total_shares": 1292493473,
-    "etfs": [
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.002,
-        "capital_yi": 0,
-        "shares": 9000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 2.78,
-        "capital_yi": 0,
-        "shares": 1899000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 1.12,
-        "capital_yi": 0,
-        "shares": 1127000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 0.06,
-        "capital_yi": 0,
-        "shares": 25000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 2.4632,
-        "capital_yi": 0,
-        "shares": 750000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 1.07,
-        "capital_yi": 0,
-        "shares": 202425787,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 1.07,
-        "capital_yi": 0,
-        "shares": 42113200,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 6.98,
-        "capital_yi": 0,
-        "shares": 374689486,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 13.5824,
-        "capital_yi": 0,
-        "shares": 655600000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.04,
-        "capital_yi": 0,
-        "shares": 13855000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2357",
-    "name": "華碩",
-    "etf_count": 10,
-    "max_weight": 4.8019,
-    "total_capital": 0,
-    "total_shares": 124221889,
-    "etfs": [
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 2.84,
-        "capital_yi": 0,
-        "shares": 274000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 1.69,
-        "capital_yi": 0,
-        "shares": 481000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 1.4134,
-        "capital_yi": 0,
-        "shares": 63000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.51,
-        "capital_yi": 0,
-        "shares": 14325945,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 2980657,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 3.74,
-        "capital_yi": 0,
-        "shares": 33951287,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 4.72,
-        "capital_yi": 0,
-        "shares": 37065000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00404A",
-        "etf_name": "主動聯博動能50",
-        "color": "#6366f1",
-        "weight": 2.23,
-        "capital_yi": 0,
-        "shares": 89000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 4.8019,
-        "capital_yi": 0,
-        "shares": 33930000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.55,
-        "capital_yi": 0,
-        "shares": 1062000,
+        "shares": 63118179,
         "date": "2026-06-18"
       }
     ]
@@ -5954,92 +5302,92 @@
     ]
   },
   {
-    "ticker": "3661",
-    "name": "世芯-KY",
+    "ticker": "2449",
+    "name": "京元電子",
     "etf_count": 9,
-    "max_weight": 2.5,
+    "max_weight": 2.09,
     "total_capital": 0,
-    "total_shares": 2493444,
+    "total_shares": 84089353,
     "etfs": [
       {
         "etf_ticker": "00981A",
         "etf_name": "主動統一台股增長",
         "color": "#34d399",
-        "weight": 0.0,
+        "weight": 0.67,
         "capital_yi": 0,
-        "shares": 1000,
+        "shares": 6484000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 2.4403,
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.004,
         "capital_yi": 0,
-        "shares": 262000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.5,
-        "capital_yi": 0,
-        "shares": 63000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.53,
-        "capital_yi": 0,
-        "shares": 7000,
+        "shares": 9000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00995A",
         "etf_name": "主動中信台灣卓越",
         "color": "#0284c7",
-        "weight": 0.38,
+        "weight": 0.41,
         "capital_yi": 0,
-        "shares": 5000,
+        "shares": 77000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00996A",
         "etf_name": "主動兆豐台灣豐收",
         "color": "#65a30d",
-        "weight": 1.52,
+        "weight": 0.04,
         "capital_yi": 0,
-        "shares": 18000,
+        "shares": 6000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 1.6843,
+        "capital_yi": 0,
+        "shares": 192000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 0.33,
+        "weight": 0.32,
         "capital_yi": 0,
-        "shares": 1674444,
+        "shares": 23080016,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 0.34,
+        "weight": 0.32,
         "capital_yi": 0,
-        "shares": 349000,
+        "shares": 4802000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.33,
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.09,
         "capital_yi": 0,
-        "shares": 114000,
+        "shares": 48646337,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00405A",
+        "etf_name": "主動富邦台灣龍耀",
+        "color": "#84cc16",
+        "weight": 1.0491,
+        "capital_yi": 0,
+        "shares": 793000,
         "date": "2026-06-18"
       }
     ]
@@ -6227,12 +5575,103 @@
     ]
   },
   {
-    "ticker": "3231",
-    "name": "緯創資通",
+    "ticker": "2603",
+    "name": "長榮海運",
     "etf_count": 9,
-    "max_weight": 2.82,
+    "max_weight": 3.5,
     "total_capital": 0,
-    "total_shares": 287837098,
+    "total_shares": 331318427,
+    "etfs": [
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.003,
+        "capital_yi": 0,
+        "shares": 9000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 2.3,
+        "capital_yi": 0,
+        "shares": 918000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 1.0153,
+        "capital_yi": 0,
+        "shares": 185000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.2,
+        "capital_yi": 0,
+        "shares": 23059127,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.2,
+        "capital_yi": 0,
+        "shares": 4797000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.44,
+        "capital_yi": 0,
+        "shares": 90718300,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 3.5,
+        "capital_yi": 0,
+        "shares": 112424000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00404A",
+        "etf_name": "主動聯博動能50",
+        "color": "#6366f1",
+        "weight": 1.87,
+        "capital_yi": 0,
+        "shares": 305000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 3.4239,
+        "capital_yi": 0,
+        "shares": 98903000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2882",
+    "name": "國泰金融",
+    "etf_count": 9,
+    "max_weight": 13.5824,
+    "total_capital": 0,
+    "total_shares": 1278638473,
     "etfs": [
       {
         "etf_ticker": "00991A",
@@ -6244,430 +5683,166 @@
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 1.11,
-        "capital_yi": 0,
-        "shares": 1228000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.31,
-        "capital_yi": 0,
-        "shares": 110000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.3352,
-        "capital_yi": 0,
-        "shares": 73000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 64093893,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 13334000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.82,
-        "capital_yi": 0,
-        "shares": 125081205,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.07,
-        "capital_yi": 0,
-        "shares": 79488000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 4420000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2412",
-    "name": "中華電信",
-    "etf_count": 9,
-    "max_weight": 2.38,
-    "total_capital": 0,
-    "total_shares": 214724116,
-    "etfs": [
-      {
-        "etf_ticker": "00991A",
-        "etf_name": "主動復華未來50",
-        "color": "#facc15",
-        "weight": 0.0,
-        "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
         "etf_ticker": "00984A",
         "etf_name": "主動安聯台灣高息",
         "color": "#16a34a",
-        "weight": 2.11,
+        "weight": 2.78,
         "capital_yi": 0,
-        "shares": 1124000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 2.38,
-        "capital_yi": 0,
-        "shares": 1778000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.0,
-        "capital_yi": 0,
-        "shares": 1,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.9786,
-        "capital_yi": 0,
-        "shares": 239000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.53,
-        "capital_yi": 0,
-        "shares": 80984043,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.53,
-        "capital_yi": 0,
-        "shares": 16848072,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.27,
-        "capital_yi": 0,
-        "shares": 97767000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 1.5,
-        "capital_yi": 0,
-        "shares": 15983000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2883",
-    "name": "凱基金控",
-    "etf_count": 9,
-    "max_weight": 4.2774,
-    "total_capital": 0,
-    "total_shares": 1763131772,
-    "etfs": [
-      {
-        "etf_ticker": "00984A",
-        "etf_name": "主動安聯台灣高息",
-        "color": "#16a34a",
-        "weight": 2.11,
-        "capital_yi": 0,
-        "shares": 5428000,
+        "shares": 1899000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00993A",
         "etf_name": "主動安聯台灣",
         "color": "#15803d",
-        "weight": 0.73,
+        "weight": 1.12,
         "capital_yi": 0,
-        "shares": 2739000,
+        "shares": 1127000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 0.06,
+        "capital_yi": 0,
+        "shares": 25000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00401A",
         "etf_name": "主動摩根台灣鑫收",
         "color": "#9333ea",
-        "weight": 2.0565,
+        "weight": 2.4632,
         "capital_yi": 0,
-        "shares": 2352000,
+        "shares": 750000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 0.47,
+        "weight": 1.07,
         "capital_yi": 0,
-        "shares": 334274770,
+        "shares": 202425787,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 0.47,
+        "weight": 1.07,
         "capital_yi": 0,
-        "shares": 69539545,
+        "shares": 42113200,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.34,
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 6.98,
         "capital_yi": 0,
-        "shares": 546150457,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00404A",
-        "etf_name": "主動聯博動能50",
-        "color": "#6366f1",
-        "weight": 2.77,
-        "capital_yi": 0,
-        "shares": 2828000,
+        "shares": 374689486,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00919",
         "etf_name": "群益台灣精選高息",
         "color": "#f472b6",
-        "weight": 4.2774,
+        "weight": 13.5824,
         "capital_yi": 0,
-        "shares": 775490000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 24330000,
+        "shares": 655600000,
         "date": "2026-06-18"
       }
     ]
   },
   {
-    "ticker": "4904",
-    "name": "遠傳電信",
+    "ticker": "2357",
+    "name": "華碩",
     "etf_count": 9,
-    "max_weight": 2.52,
+    "max_weight": 4.8019,
     "total_capital": 0,
-    "total_shares": 224326944,
+    "total_shares": 123159889,
     "etfs": [
       {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 0.72,
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 2.84,
         "capital_yi": 0,
-        "shares": 713000,
+        "shares": 274000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00993A",
-        "etf_name": "主動安聯台灣",
-        "color": "#15803d",
-        "weight": 0.48,
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 1.69,
         "capital_yi": 0,
-        "shares": 501000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.0,
-        "capital_yi": 0,
-        "shares": 3,
+        "shares": 481000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00401A",
         "etf_name": "主動摩根台灣鑫收",
         "color": "#9333ea",
-        "weight": 0.9317,
+        "weight": 1.4134,
         "capital_yi": 0,
-        "shares": 302000,
+        "shares": 63000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 0.19,
+        "weight": 0.51,
         "capital_yi": 0,
-        "shares": 37655435,
+        "shares": 14325945,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 0.19,
+        "weight": 0.52,
         "capital_yi": 0,
-        "shares": 7834506,
+        "shares": 2980657,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0056",
         "etf_name": "元大高股息",
         "color": "#4adfb8",
-        "weight": 0.44,
+        "weight": 3.74,
         "capital_yi": 0,
-        "shares": 29397000,
+        "shares": 33951287,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00878",
         "etf_name": "國泰永續高股息",
         "color": "#a78bfa",
-        "weight": 2.52,
+        "weight": 4.72,
         "capital_yi": 0,
-        "shares": 144292000,
+        "shares": 37065000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.26,
+        "etf_ticker": "00404A",
+        "etf_name": "主動聯博動能50",
+        "color": "#6366f1",
+        "weight": 2.23,
         "capital_yi": 0,
-        "shares": 3632000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "3008",
-    "name": "大立光",
-    "etf_count": 8,
-    "max_weight": 4.198,
-    "total_capital": 0,
-    "total_shares": 3180098,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 1.9195,
-        "capital_yi": 0,
-        "shares": 201000,
+        "shares": 89000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00981A",
-        "etf_name": "主動統一台股增長",
-        "color": "#34d399",
-        "weight": 0.0,
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 4.8019,
         "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00992A",
-        "etf_name": "主動群益科技創新",
-        "color": "#818cf8",
-        "weight": 4.198,
-        "capital_yi": 0,
-        "shares": 380000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 1.14,
-        "capital_yi": 0,
-        "shares": 24000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.36,
-        "capital_yi": 0,
-        "shares": 4000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 1992630,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.47,
-        "capital_yi": 0,
-        "shares": 415468,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.55,
-        "capital_yi": 0,
-        "shares": 162000,
+        "shares": 33930000,
         "date": "2026-06-18"
       }
     ]
@@ -6755,6 +5930,88 @@
     ]
   },
   {
+    "ticker": "3661",
+    "name": "世芯-KY",
+    "etf_count": 8,
+    "max_weight": 2.5,
+    "total_capital": 0,
+    "total_shares": 2379444,
+    "etfs": [
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 2.4403,
+        "capital_yi": 0,
+        "shares": 262000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.5,
+        "capital_yi": 0,
+        "shares": 63000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.53,
+        "capital_yi": 0,
+        "shares": 7000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00995A",
+        "etf_name": "主動中信台灣卓越",
+        "color": "#0284c7",
+        "weight": 0.38,
+        "capital_yi": 0,
+        "shares": 5000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 1.52,
+        "capital_yi": 0,
+        "shares": 18000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.33,
+        "capital_yi": 0,
+        "shares": 1674444,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.34,
+        "capital_yi": 0,
+        "shares": 349000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "5347",
     "name": "世界",
     "etf_count": 8,
@@ -6832,6 +6089,170 @@
         "weight": 0.76,
         "capital_yi": 0,
         "shares": 137000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "3231",
+    "name": "緯創資通",
+    "etf_count": 8,
+    "max_weight": 2.82,
+    "total_capital": 0,
+    "total_shares": 283417098,
+    "etfs": [
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.002,
+        "capital_yi": 0,
+        "shares": 9000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 1.11,
+        "capital_yi": 0,
+        "shares": 1228000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.31,
+        "capital_yi": 0,
+        "shares": 110000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.3352,
+        "capital_yi": 0,
+        "shares": 73000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 64093893,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 13334000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.82,
+        "capital_yi": 0,
+        "shares": 125081205,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.07,
+        "capital_yi": 0,
+        "shares": 79488000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2412",
+    "name": "中華電信",
+    "etf_count": 8,
+    "max_weight": 2.38,
+    "total_capital": 0,
+    "total_shares": 198741116,
+    "etfs": [
+      {
+        "etf_ticker": "00991A",
+        "etf_name": "主動復華未來50",
+        "color": "#facc15",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 2.11,
+        "capital_yi": 0,
+        "shares": 1124000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 2.38,
+        "capital_yi": 0,
+        "shares": 1778000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.9786,
+        "capital_yi": 0,
+        "shares": 239000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.53,
+        "capital_yi": 0,
+        "shares": 80984043,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.53,
+        "capital_yi": 0,
+        "shares": 16848072,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.27,
+        "capital_yi": 0,
+        "shares": 97767000,
         "date": "2026-06-18"
       }
     ]
@@ -6919,83 +6340,165 @@
     ]
   },
   {
-    "ticker": "3045",
-    "name": "台灣大",
+    "ticker": "2883",
+    "name": "凱基金控",
     "etf_count": 8,
-    "max_weight": 2.49,
+    "max_weight": 4.2774,
     "total_capital": 0,
-    "total_shares": 308468722,
+    "total_shares": 1738801772,
     "etfs": [
       {
         "etf_ticker": "00984A",
         "etf_name": "主動安聯台灣高息",
         "color": "#16a34a",
-        "weight": 2.42,
+        "weight": 2.11,
         "capital_yi": 0,
-        "shares": 1576000,
+        "shares": 5428000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00993A",
         "etf_name": "主動安聯台灣",
         "color": "#15803d",
-        "weight": 0.37,
+        "weight": 0.73,
         "capital_yi": 0,
-        "shares": 350000,
+        "shares": 2739000,
         "date": "2026-06-18"
       },
       {
-        "etf_ticker": "00994A",
-        "etf_name": "主動第一金台股優",
-        "color": "#0891b2",
-        "weight": 0.52,
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 2.0565,
         "capital_yi": 0,
-        "shares": 250000,
+        "shares": 2352000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0050",
         "etf_name": "元大台灣50",
         "color": "#4a9eff",
-        "weight": 0.16,
+        "weight": 0.47,
         "capital_yi": 0,
-        "shares": 29996299,
+        "shares": 334274770,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "006208",
         "etf_name": "富邦台50",
         "color": "#60a5fa",
-        "weight": 0.16,
+        "weight": 0.47,
         "capital_yi": 0,
-        "shares": 6240368,
+        "shares": 69539545,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "0056",
         "etf_name": "元大高股息",
         "color": "#4adfb8",
-        "weight": 2.27,
+        "weight": 2.34,
         "capital_yi": 0,
-        "shares": 137022055,
+        "shares": 546150457,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00404A",
+        "etf_name": "主動聯博動能50",
+        "color": "#6366f1",
+        "weight": 2.77,
+        "capital_yi": 0,
+        "shares": 2828000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 4.2774,
+        "capital_yi": 0,
+        "shares": 775490000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "4904",
+    "name": "遠傳電信",
+    "etf_count": 8,
+    "max_weight": 2.52,
+    "total_capital": 0,
+    "total_shares": 220694944,
+    "etfs": [
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 0.72,
+        "capital_yi": 0,
+        "shares": 713000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 0.48,
+        "capital_yi": 0,
+        "shares": 501000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 3,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.9317,
+        "capital_yi": 0,
+        "shares": 302000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.19,
+        "capital_yi": 0,
+        "shares": 37655435,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.19,
+        "capital_yi": 0,
+        "shares": 7834506,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 0.44,
+        "capital_yi": 0,
+        "shares": 29397000,
         "date": "2026-06-18"
       },
       {
         "etf_ticker": "00878",
         "etf_name": "國泰永續高股息",
         "color": "#a78bfa",
-        "weight": 2.49,
+        "weight": 2.52,
         "capital_yi": 0,
-        "shares": 129747000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.26,
-        "capital_yi": 0,
-        "shares": 3287000,
+        "shares": 144292000,
         "date": "2026-06-18"
       }
     ]
@@ -7069,6 +6572,79 @@
         "weight": 2.7444,
         "capital_yi": 0,
         "shares": 1212000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "3008",
+    "name": "大立光",
+    "etf_count": 7,
+    "max_weight": 4.198,
+    "total_capital": 0,
+    "total_shares": 3018098,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 1.9195,
+        "capital_yi": 0,
+        "shares": 201000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00981A",
+        "etf_name": "主動統一台股增長",
+        "color": "#34d399",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00992A",
+        "etf_name": "主動群益科技創新",
+        "color": "#818cf8",
+        "weight": 4.198,
+        "capital_yi": 0,
+        "shares": 380000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 1.14,
+        "capital_yi": 0,
+        "shares": 24000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.36,
+        "capital_yi": 0,
+        "shares": 4000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 1992630,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.47,
+        "capital_yi": 0,
+        "shares": 415468,
         "date": "2026-06-18"
       }
     ]
@@ -7220,79 +6796,6 @@
     ]
   },
   {
-    "ticker": "2886",
-    "name": "兆豐金",
-    "etf_count": 7,
-    "max_weight": 2.53,
-    "total_capital": 0,
-    "total_shares": 1062947066,
-    "etfs": [
-      {
-        "etf_ticker": "00982A",
-        "etf_name": "主動群益台灣強棒",
-        "color": "#f87171",
-        "weight": 0.0,
-        "capital_yi": 0,
-        "shares": 1000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.4619,
-        "capital_yi": 0,
-        "shares": 357000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 250894645,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 52192130,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.53,
-        "capital_yi": 0,
-        "shares": 399024327,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.52,
-        "capital_yi": 0,
-        "shares": 343589964,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.5,
-        "capital_yi": 0,
-        "shares": 16888000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
     "ticker": "6510",
     "name": "精測",
     "etf_count": 7,
@@ -7439,6 +6942,79 @@
     ]
   },
   {
+    "ticker": "3045",
+    "name": "台灣大",
+    "etf_count": 7,
+    "max_weight": 2.49,
+    "total_capital": 0,
+    "total_shares": 305181722,
+    "etfs": [
+      {
+        "etf_ticker": "00984A",
+        "etf_name": "主動安聯台灣高息",
+        "color": "#16a34a",
+        "weight": 2.42,
+        "capital_yi": 0,
+        "shares": 1576000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00993A",
+        "etf_name": "主動安聯台灣",
+        "color": "#15803d",
+        "weight": 0.37,
+        "capital_yi": 0,
+        "shares": 350000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00994A",
+        "etf_name": "主動第一金台股優",
+        "color": "#0891b2",
+        "weight": 0.52,
+        "capital_yi": 0,
+        "shares": 250000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.16,
+        "capital_yi": 0,
+        "shares": 29996299,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.16,
+        "capital_yi": 0,
+        "shares": 6240368,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.27,
+        "capital_yi": 0,
+        "shares": 137022055,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.49,
+        "capital_yi": 0,
+        "shares": 129747000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "3131",
     "name": "弘塑科技",
     "etf_count": 7,
@@ -7507,225 +7083,6 @@
         "weight": 0.22,
         "capital_yi": 0,
         "shares": 2000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "1216",
-    "name": "統一企業",
-    "etf_count": 7,
-    "max_weight": 2.3,
-    "total_capital": 0,
-    "total_shares": 527692399,
-    "etfs": [
-      {
-        "etf_ticker": "00985A",
-        "etf_name": "主動野村台灣50",
-        "color": "#1d4ed8",
-        "weight": 1.51,
-        "capital_yi": 0,
-        "shares": 2161000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.305,
-        "capital_yi": 0,
-        "shares": 144000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.36,
-        "capital_yi": 0,
-        "shares": 104883286,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.36,
-        "capital_yi": 0,
-        "shares": 21820765,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.08,
-        "capital_yi": 0,
-        "shares": 200125348,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.3,
-        "capital_yi": 0,
-        "shares": 191517000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.34,
-        "capital_yi": 0,
-        "shares": 7041000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "1303",
-    "name": "南亞塑膠",
-    "etf_count": 7,
-    "max_weight": 1.14,
-    "total_capital": 0,
-    "total_shares": 145108937,
-    "etfs": [
-      {
-        "etf_ticker": "00996A",
-        "etf_name": "主動兆豐台灣豐收",
-        "color": "#65a30d",
-        "weight": 0.38,
-        "capital_yi": 0,
-        "shares": 140000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00400A",
-        "etf_name": "主動國泰動能高息",
-        "color": "#0d9488",
-        "weight": 1.14,
-        "capital_yi": 0,
-        "shares": 1840000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.66,
-        "capital_yi": 0,
-        "shares": 104560435,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.66,
-        "capital_yi": 0,
-        "shares": 21752502,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00403A",
-        "etf_name": "主動統一升級50",
-        "color": "#14b8a6",
-        "weight": 0.6,
-        "capital_yi": 0,
-        "shares": 7550000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 0.03,
-        "capital_yi": 0,
-        "shares": 1328000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.72,
-        "capital_yi": 0,
-        "shares": 7938000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2887",
-    "name": "台新新光金",
-    "etf_count": 7,
-    "max_weight": 6.6123,
-    "total_capital": 0,
-    "total_shares": 2765196057,
-    "etfs": [
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 1.0002,
-        "capital_yi": 0,
-        "shares": 1084000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.73,
-        "capital_yi": 0,
-        "shares": 492501179,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.73,
-        "capital_yi": 0,
-        "shares": 102457500,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 1.94,
-        "capital_yi": 0,
-        "shares": 429097378,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.98,
-        "capital_yi": 0,
-        "shares": 569427000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00919",
-        "etf_name": "群益台灣精選高息",
-        "color": "#f472b6",
-        "weight": 6.6123,
-        "capital_yi": 0,
-        "shares": 1136010000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.73,
-        "capital_yi": 0,
-        "shares": 34619000,
         "date": "2026-06-18"
       }
     ]
@@ -7854,6 +7211,70 @@
         "weight": 0.85,
         "capital_yi": 0,
         "shares": 22331437,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2886",
+    "name": "兆豐金",
+    "etf_count": 6,
+    "max_weight": 2.53,
+    "total_capital": 0,
+    "total_shares": 1046059066,
+    "etfs": [
+      {
+        "etf_ticker": "00982A",
+        "etf_name": "主動群益台灣強棒",
+        "color": "#f87171",
+        "weight": 0.0,
+        "capital_yi": 0,
+        "shares": 1000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.4619,
+        "capital_yi": 0,
+        "shares": 357000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.52,
+        "capital_yi": 0,
+        "shares": 250894645,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.52,
+        "capital_yi": 0,
+        "shares": 52192130,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.53,
+        "capital_yi": 0,
+        "shares": 399024327,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.52,
+        "capital_yi": 0,
+        "shares": 343589964,
         "date": "2026-06-18"
       }
     ]
@@ -8051,70 +7472,6 @@
     ]
   },
   {
-    "ticker": "2884",
-    "name": "玉山金融控股",
-    "etf_count": 6,
-    "max_weight": 1.828,
-    "total_capital": 0,
-    "total_shares": 763307770,
-    "etfs": [
-      {
-        "etf_ticker": "00980A",
-        "etf_name": "主動野村臺灣優選",
-        "color": "#2563eb",
-        "weight": 0.77,
-        "capital_yi": 0,
-        "shares": 3867622,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 1.828,
-        "capital_yi": 0,
-        "shares": 1816000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 322674386,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 67128867,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 1.7,
-        "capital_yi": 0,
-        "shares": 345202895,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.52,
-        "capital_yi": 0,
-        "shares": 22618000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
     "ticker": "3293",
     "name": "鈊象電子",
     "etf_count": 6,
@@ -8238,6 +7595,198 @@
         "weight": 3.6694,
         "capital_yi": 0,
         "shares": 39645000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "1216",
+    "name": "統一企業",
+    "etf_count": 6,
+    "max_weight": 2.3,
+    "total_capital": 0,
+    "total_shares": 520651399,
+    "etfs": [
+      {
+        "etf_ticker": "00985A",
+        "etf_name": "主動野村台灣50",
+        "color": "#1d4ed8",
+        "weight": 1.51,
+        "capital_yi": 0,
+        "shares": 2161000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.305,
+        "capital_yi": 0,
+        "shares": 144000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.36,
+        "capital_yi": 0,
+        "shares": 104883286,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.36,
+        "capital_yi": 0,
+        "shares": 21820765,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.08,
+        "capital_yi": 0,
+        "shares": 200125348,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.3,
+        "capital_yi": 0,
+        "shares": 191517000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "1303",
+    "name": "南亞塑膠",
+    "etf_count": 6,
+    "max_weight": 1.14,
+    "total_capital": 0,
+    "total_shares": 137170937,
+    "etfs": [
+      {
+        "etf_ticker": "00996A",
+        "etf_name": "主動兆豐台灣豐收",
+        "color": "#65a30d",
+        "weight": 0.38,
+        "capital_yi": 0,
+        "shares": 140000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00400A",
+        "etf_name": "主動國泰動能高息",
+        "color": "#0d9488",
+        "weight": 1.14,
+        "capital_yi": 0,
+        "shares": 1840000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.66,
+        "capital_yi": 0,
+        "shares": 104560435,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.66,
+        "capital_yi": 0,
+        "shares": 21752502,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00403A",
+        "etf_name": "主動統一升級50",
+        "color": "#14b8a6",
+        "weight": 0.6,
+        "capital_yi": 0,
+        "shares": 7550000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 0.03,
+        "capital_yi": 0,
+        "shares": 1328000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2887",
+    "name": "台新新光金",
+    "etf_count": 6,
+    "max_weight": 6.6123,
+    "total_capital": 0,
+    "total_shares": 2730577057,
+    "etfs": [
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 1.0002,
+        "capital_yi": 0,
+        "shares": 1084000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.73,
+        "capital_yi": 0,
+        "shares": 492501179,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.73,
+        "capital_yi": 0,
+        "shares": 102457500,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 1.94,
+        "capital_yi": 0,
+        "shares": 429097378,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.98,
+        "capital_yi": 0,
+        "shares": 569427000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00919",
+        "etf_name": "群益台灣精選高息",
+        "color": "#f472b6",
+        "weight": 6.6123,
+        "capital_yi": 0,
+        "shares": 1136010000,
         "date": "2026-06-18"
       }
     ]
@@ -8573,6 +8122,61 @@
     ]
   },
   {
+    "ticker": "2884",
+    "name": "玉山金融控股",
+    "etf_count": 5,
+    "max_weight": 1.828,
+    "total_capital": 0,
+    "total_shares": 740689770,
+    "etfs": [
+      {
+        "etf_ticker": "00980A",
+        "etf_name": "主動野村臺灣優選",
+        "color": "#2563eb",
+        "weight": 0.77,
+        "capital_yi": 0,
+        "shares": 3867622,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 1.828,
+        "capital_yi": 0,
+        "shares": 1816000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.52,
+        "capital_yi": 0,
+        "shares": 322674386,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.52,
+        "capital_yi": 0,
+        "shares": 67128867,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 1.7,
+        "capital_yi": 0,
+        "shares": 345202895,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "2347",
     "name": "聯強",
     "etf_count": 5,
@@ -8678,171 +8282,6 @@
         "weight": 0.3864,
         "capital_yi": 0,
         "shares": 269000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2890",
-    "name": "永豐金融控股",
-    "etf_count": 5,
-    "max_weight": 3.19,
-    "total_capital": 0,
-    "total_shares": 925310017,
-    "etfs": [
-      {
-        "etf_ticker": "00401A",
-        "etf_name": "主動摩根台灣鑫收",
-        "color": "#9333ea",
-        "weight": 0.2965,
-        "capital_yi": 0,
-        "shares": 262000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 272575125,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.49,
-        "capital_yi": 0,
-        "shares": 56705373,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 3.19,
-        "capital_yi": 0,
-        "shares": 575429519,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.53,
-        "capital_yi": 0,
-        "shares": 20338000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2301",
-    "name": "光寶科",
-    "etf_count": 5,
-    "max_weight": 2.64,
-    "total_capital": 0,
-    "total_shares": 205378017,
-    "etfs": [
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.4,
-        "capital_yi": 0,
-        "shares": 41514937,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.4,
-        "capital_yi": 0,
-        "shares": 8637000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.64,
-        "capital_yi": 0,
-        "shares": 89867080,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.11,
-        "capital_yi": 0,
-        "shares": 62290000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.42,
-        "capital_yi": 0,
-        "shares": 3069000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2880",
-    "name": "華南金",
-    "etf_count": 5,
-    "max_weight": 2.89,
-    "total_capital": 0,
-    "total_shares": 1139873864,
-    "etfs": [
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.34,
-        "capital_yi": 0,
-        "shares": 195129403,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.34,
-        "capital_yi": 0,
-        "shares": 40595046,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "0056",
-        "etf_name": "元大高股息",
-        "color": "#4adfb8",
-        "weight": 2.89,
-        "capital_yi": 0,
-        "shares": 540295415,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "00878",
-        "etf_name": "國泰永續高股息",
-        "color": "#a78bfa",
-        "weight": 2.16,
-        "capital_yi": 0,
-        "shares": 348675000,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.38,
-        "capital_yi": 0,
-        "shares": 15179000,
         "date": "2026-06-18"
       }
     ]
@@ -9630,6 +9069,144 @@
     ]
   },
   {
+    "ticker": "2890",
+    "name": "永豐金融控股",
+    "etf_count": 4,
+    "max_weight": 3.19,
+    "total_capital": 0,
+    "total_shares": 904972017,
+    "etfs": [
+      {
+        "etf_ticker": "00401A",
+        "etf_name": "主動摩根台灣鑫收",
+        "color": "#9333ea",
+        "weight": 0.2965,
+        "capital_yi": 0,
+        "shares": 262000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.49,
+        "capital_yi": 0,
+        "shares": 272575125,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.49,
+        "capital_yi": 0,
+        "shares": 56705373,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 3.19,
+        "capital_yi": 0,
+        "shares": 575429519,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2301",
+    "name": "光寶科",
+    "etf_count": 4,
+    "max_weight": 2.64,
+    "total_capital": 0,
+    "total_shares": 202309017,
+    "etfs": [
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.4,
+        "capital_yi": 0,
+        "shares": 41514937,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.4,
+        "capital_yi": 0,
+        "shares": 8637000,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.64,
+        "capital_yi": 0,
+        "shares": 89867080,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.11,
+        "capital_yi": 0,
+        "shares": 62290000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2880",
+    "name": "華南金",
+    "etf_count": 4,
+    "max_weight": 2.89,
+    "total_capital": 0,
+    "total_shares": 1124694864,
+    "etfs": [
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.34,
+        "capital_yi": 0,
+        "shares": 195129403,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.34,
+        "capital_yi": 0,
+        "shares": 40595046,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "0056",
+        "etf_name": "元大高股息",
+        "color": "#4adfb8",
+        "weight": 2.89,
+        "capital_yi": 0,
+        "shares": 540295415,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "00878",
+        "etf_name": "國泰永續高股息",
+        "color": "#a78bfa",
+        "weight": 2.16,
+        "capital_yi": 0,
+        "shares": 348675000,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
     "ticker": "2377",
     "name": "微星",
     "etf_count": 3,
@@ -10402,117 +9979,6 @@
         "weight": 0.4037,
         "capital_yi": 0,
         "shares": 95000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "2892",
-    "name": "第一金",
-    "etf_count": 3,
-    "max_weight": 0.36,
-    "total_capital": 0,
-    "total_shares": 304140853,
-    "etfs": [
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.35,
-        "capital_yi": 0,
-        "shares": 237733213,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.35,
-        "capital_yi": 0,
-        "shares": 49455640,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.36,
-        "capital_yi": 0,
-        "shares": 16952000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "5880",
-    "name": "合庫金",
-    "etf_count": 3,
-    "max_weight": 0.27,
-    "total_capital": 0,
-    "total_shares": 284911070,
-    "etfs": [
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.25,
-        "capital_yi": 0,
-        "shares": 222199961,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.25,
-        "capital_yi": 0,
-        "shares": 46227109,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.27,
-        "capital_yi": 0,
-        "shares": 16484000,
-        "date": "2026-06-18"
-      }
-    ]
-  },
-  {
-    "ticker": "6505",
-    "name": "台塑化",
-    "etf_count": 3,
-    "max_weight": 0.12,
-    "total_capital": 0,
-    "total_shares": 32958427,
-    "etfs": [
-      {
-        "etf_ticker": "0050",
-        "etf_name": "元大台灣50",
-        "color": "#4a9eff",
-        "weight": 0.06,
-        "capital_yi": 0,
-        "shares": 24354224,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "006208",
-        "etf_name": "富邦台50",
-        "color": "#60a5fa",
-        "weight": 0.06,
-        "capital_yi": 0,
-        "shares": 5067203,
-        "date": "2026-06-18"
-      },
-      {
-        "etf_ticker": "009816",
-        "etf_name": "009816",
-        "color": "#888888",
-        "weight": 0.12,
-        "capital_yi": 0,
-        "shares": 3537000,
         "date": "2026-06-18"
       }
     ]
@@ -11661,6 +11127,90 @@
         "weight": 0.0,
         "capital_yi": 0,
         "shares": 102294,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "2892",
+    "name": "第一金",
+    "etf_count": 2,
+    "max_weight": 0.35,
+    "total_capital": 0,
+    "total_shares": 287188853,
+    "etfs": [
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.35,
+        "capital_yi": 0,
+        "shares": 237733213,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.35,
+        "capital_yi": 0,
+        "shares": 49455640,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "5880",
+    "name": "合庫金",
+    "etf_count": 2,
+    "max_weight": 0.25,
+    "total_capital": 0,
+    "total_shares": 268427070,
+    "etfs": [
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.25,
+        "capital_yi": 0,
+        "shares": 222199961,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.25,
+        "capital_yi": 0,
+        "shares": 46227109,
+        "date": "2026-06-18"
+      }
+    ]
+  },
+  {
+    "ticker": "6505",
+    "name": "台塑化",
+    "etf_count": 2,
+    "max_weight": 0.06,
+    "total_capital": 0,
+    "total_shares": 29421427,
+    "etfs": [
+      {
+        "etf_ticker": "0050",
+        "etf_name": "元大台灣50",
+        "color": "#4a9eff",
+        "weight": 0.06,
+        "capital_yi": 0,
+        "shares": 24354224,
+        "date": "2026-06-18"
+      },
+      {
+        "etf_ticker": "006208",
+        "etf_name": "富邦台50",
+        "color": "#60a5fa",
+        "weight": 0.06,
+        "capital_yi": 0,
+        "shares": 5067203,
         "date": "2026-06-18"
       }
     ]
