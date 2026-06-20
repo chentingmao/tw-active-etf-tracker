@@ -6,14 +6,14 @@
   <title>主動式 ETF 績效</title>
   <style>
     :root {
-      color-scheme: light;
-      --ink: #172033;
-      --muted: #697386;
-      --line: #d8dee8;
-      --panel: #ffffff;
-      --accent: #0f766e;
-      --danger: #b91c1c;
-      --warn: #a16207;
+      color-scheme: dark;
+      --ink: #e7edf6;
+      --muted: #9aa8ba;
+      --line: #263244;
+      --panel: #111a27;
+      --accent: #2dd4bf;
+      --danger: #fb7185;
+      --warn: #fbbf24;
     }
 
     * {
@@ -24,12 +24,12 @@
       margin: 0;
       font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
       color: var(--ink);
-      background: #eef2f6;
+      background: #07111f;
       letter-spacing: 0;
     }
 
     header {
-      background: #ffffff;
+      background: #0b1422;
       border-bottom: 1px solid var(--line);
       padding: 18px 24px 14px;
       position: sticky;
@@ -58,20 +58,20 @@
       border: 1px solid var(--line);
       border-radius: 6px;
       color: var(--ink);
-      background: #fff;
+      background: #111a27;
       text-decoration: none;
       font-size: 14px;
     }
 
     .page-nav a:hover {
-      border-color: #9aa8ba;
-      background: #f8fafc;
+      border-color: #3a4a61;
+      background: #162236;
     }
 
     .page-nav a[data-page="performance"] {
-      border-color: #0f766e;
-      background: #ecfdf5;
-      color: #0f5f59;
+      border-color: #2dd4bf;
+      background: #123532;
+      color: #99f6e4;
       font-weight: 700;
     }
 
@@ -96,7 +96,7 @@
     button {
       height: 38px;
       border: 1px solid var(--line);
-      background: #fff;
+      background: #111a27;
       color: var(--ink);
       border-radius: 6px;
       font: inherit;
@@ -114,8 +114,8 @@
     }
 
     button:hover {
-      border-color: #9aa8ba;
-      background: #f8fafc;
+      border-color: #3a4a61;
+      background: #162236;
     }
 
     .segments {
@@ -123,7 +123,7 @@
       border: 1px solid var(--line);
       border-radius: 6px;
       overflow: hidden;
-      background: #fff;
+      background: #111a27;
     }
 
     .segments button {
@@ -137,8 +137,8 @@
     }
 
     .segments button.active {
-      background: #ecfdf5;
-      color: #0f5f59;
+      background: #123532;
+      color: #99f6e4;
       font-weight: 700;
     }
 
@@ -194,7 +194,7 @@
       gap: 12px;
       padding: 12px 14px;
       border-bottom: 1px solid var(--line);
-      background: #fbfcfe;
+      background: #121d2c;
     }
 
     h2 {
@@ -222,16 +222,16 @@
       display: block;
       width: 100%;
       height: 340px;
-      background: #fff;
+      background: #111a27;
     }
 
     .axis {
-      stroke: #c8d1de;
+      stroke: #334155;
       stroke-width: 1;
     }
 
     .grid {
-      stroke: #edf1f6;
+      stroke: #1f2a3a;
       stroke-width: 1;
     }
 
@@ -247,14 +247,14 @@
     }
 
     .hover-line {
-      stroke: #64748b;
+      stroke: #94a3b8;
       stroke-width: 1;
       stroke-dasharray: 4 4;
       pointer-events: none;
     }
 
     .hover-dot {
-      fill: #fff;
+      fill: #0b1422;
       stroke: var(--accent);
       stroke-width: 2.5;
       pointer-events: none;
@@ -271,8 +271,8 @@
       padding: 8px 10px;
       border: 1px solid var(--line);
       border-radius: 6px;
-      background: #fff;
-      box-shadow: 0 10px 26px rgba(15, 23, 42, .16);
+      background: #111a27;
+      box-shadow: 0 16px 36px rgba(0, 0, 0, .38);
       color: var(--ink);
       font-size: 12px;
       line-height: 1.45;
@@ -297,7 +297,7 @@
     th,
     td {
       padding: 10px 12px;
-      border-bottom: 1px solid #e8edf3;
+      border-bottom: 1px solid #202b3a;
       text-align: left;
       vertical-align: middle;
       font-size: 13px;
@@ -305,8 +305,8 @@
     }
 
     th {
-      background: #f7f9fc;
-      color: #46546a;
+      background: #121d2c;
+      color: #c5d0df;
       font-weight: 700;
       position: sticky;
       top: 0;
@@ -315,11 +315,11 @@
     }
 
     tr:hover td {
-      background: #f7fbfb;
+      background: #132338;
     }
 
     tr.selected td {
-      background: #ecfdf5;
+      background: #123532;
     }
 
     .scroll {
@@ -621,7 +621,7 @@
       const field = state.mode === "total" ? "total_return_index" : "price_index";
       $("chartTitle").textContent = item ? `${item.ticker} ${item.name}` : "歷史走勢";
       $("chartCount").textContent = `${state.mode === "total" ? "含息總報酬" : "價格報酬"} 基準 100`;
-      drawLineChart(series, field, item?.color || "#0f766e");
+      drawLineChart(series, field, item?.color || "#2dd4bf");
     }
 
     function drawLineChart(series, field, color) {

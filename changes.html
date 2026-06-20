@@ -6,15 +6,15 @@
   <title>每日增減追蹤</title>
   <style>
     :root {
-      color-scheme: light;
-      --ink: #172033;
-      --muted: #697386;
-      --line: #d8dee8;
-      --soft: #f4f6f9;
-      --panel: #ffffff;
-      --accent: #0f766e;
-      --warn: #a16207;
-      --danger: #b91c1c;
+      color-scheme: dark;
+      --ink: #e7edf6;
+      --muted: #9aa8ba;
+      --line: #263244;
+      --soft: #111827;
+      --panel: #111a27;
+      --accent: #2dd4bf;
+      --warn: #fbbf24;
+      --danger: #fb7185;
     }
 
     * {
@@ -25,12 +25,12 @@
       margin: 0;
       font-family: "Noto Sans TC", "Microsoft JhengHei", Arial, sans-serif;
       color: var(--ink);
-      background: #eef2f6;
+      background: #07111f;
       letter-spacing: 0;
     }
 
     header {
-      background: #ffffff;
+      background: #0b1422;
       border-bottom: 1px solid var(--line);
       padding: 18px 24px 14px;
       position: sticky;
@@ -60,21 +60,21 @@
       border: 1px solid var(--line);
       border-radius: 6px;
       color: var(--ink);
-      background: #fff;
+      background: #111a27;
       text-decoration: none;
       font-size: 14px;
     }
 
     .page-nav a:hover {
-      border-color: #9aa8ba;
-      background: #f8fafc;
+      border-color: #3a4a61;
+      background: #162236;
     }
 
     body.page-holdings .page-nav a[data-page="holdings"],
     body.page-changes .page-nav a[data-page="changes"] {
-      border-color: #0f766e;
-      background: #ecfdf5;
-      color: #0f5f59;
+      border-color: #2dd4bf;
+      background: #123532;
+      color: #99f6e4;
       font-weight: 700;
     }
 
@@ -101,7 +101,7 @@
     .button-link {
       height: 38px;
       border: 1px solid var(--line);
-      background: #fff;
+      background: #111a27;
       color: var(--ink);
       border-radius: 6px;
       font: inherit;
@@ -130,8 +130,8 @@
 
     button:hover,
     .button-link:hover {
-      border-color: #9aa8ba;
-      background: #f8fafc;
+      border-color: #3a4a61;
+      background: #162236;
     }
 
     body.page-holdings .changes,
@@ -204,7 +204,7 @@
       gap: 12px;
       padding: 12px 14px;
       border-bottom: 1px solid var(--line);
-      background: #fbfcfe;
+      background: #121d2c;
     }
 
     h2 {
@@ -228,7 +228,7 @@
     th,
     td {
       padding: 10px 12px;
-      border-bottom: 1px solid #e8edf3;
+      border-bottom: 1px solid #202b3a;
       text-align: left;
       vertical-align: middle;
       font-size: 13px;
@@ -236,8 +236,8 @@
     }
 
     th {
-      background: #f7f9fc;
-      color: #46546a;
+      background: #121d2c;
+      color: #c5d0df;
       font-weight: 700;
       position: sticky;
       top: 0;
@@ -245,7 +245,7 @@
     }
 
     tr:hover td {
-      background: #f7fbfb;
+      background: #132338;
     }
 
     #etfBody tr[data-etf] {
@@ -253,7 +253,7 @@
     }
 
     #etfBody tr[data-etf]:hover td {
-      background: #eef8f7;
+      background: #102a2f;
     }
 
     #etfBody tr:not([data-etf]) {
@@ -284,7 +284,7 @@
       border-radius: 50%;
       margin-right: 7px;
       vertical-align: -1px;
-      border: 1px solid rgba(0, 0, 0, .16);
+      border: 1px solid rgba(255, 255, 255, .22);
     }
 
     .tags {
@@ -295,18 +295,18 @@
 
     .tag {
       border: 1px solid var(--line);
-      background: #fff;
+      background: #111a27;
       border-radius: 999px;
       padding: 3px 8px;
       font-size: 12px;
-      color: #39465a;
+      color: #cbd5e1;
       white-space: nowrap;
     }
 
     .bar {
       height: 8px;
       width: 100%;
-      background: #e8edf3;
+      background: #263244;
       border-radius: 999px;
       overflow: hidden;
       margin-top: 5px;
@@ -328,7 +328,7 @@
     .etf-chip {
       border-radius: 999px;
       border: 1px solid var(--line);
-      background: #fff;
+      background: #111a27;
       padding: 3px 7px;
       font-size: 12px;
       white-space: nowrap;
@@ -396,7 +396,7 @@
       justify-content: space-between;
       gap: 10px;
       padding: 10px 12px;
-      background: #fbfcfe;
+      background: #121d2c;
       border-bottom: 1px solid var(--line);
     }
 
@@ -429,7 +429,7 @@
       text-align: center;
       font-size: 12px;
       border: 1px solid var(--line);
-      background: #fff;
+      background: #111a27;
     }
 
     .action-added,
@@ -443,7 +443,7 @@
     }
 
     .action-increased {
-      color: #0369a1;
+      color: #60a5fa;
     }
 
     .action-decreased {
@@ -485,7 +485,7 @@
 
     .selected-etf td,
     .selected td {
-      background: #ecfdf5;
+      background: #123532;
     }
 
     @media (max-width: 980px) {
@@ -1058,7 +1058,7 @@
             <td class="num">${row.etf_count}</td>
             <td class="num">
               ${pct(displayWeight)}
-              <div class="bar"><span style="--w:${Math.min(100, displayWeight * 6)}%; --c:#0f766e"></span></div>
+              <div class="bar"><span style="--w:${Math.min(100, displayWeight * 6)}%; --c:#2dd4bf"></span></div>
             </td>
             <td><div class="etf-list">${chips}</div></td>
           </tr>
